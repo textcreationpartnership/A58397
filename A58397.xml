@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Reformed dissenter, or, A Conference between a [brace] conformist and a separatist concerning communion with the Church of England.</title>
+         </titleStmt>
+         <extent>Approx. 108KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58397</idno><idno type="EEBO-CITATION">12611321</idno>
+  <idno type="VID">64391</idno>
+  <idno type="EEBO-PROQUEST">2240933542</idno>
+  
+            <idno type="STC">Wing R744</idno>
+            <idno type="STC">ESTC R32279</idno>
+            <idno type="OCLC">12611321</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58397)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1534:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Reformed dissenter, or, A Conference between a [brace] conformist and a separatist concerning communion with the Church of England.</title>
+               </titleStmt>
+               <extent>[2], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>And are to be sold by Joseph Collier ...,</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Apologetic works.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64391:1"/>
+            <p>THE <hi>Reformed Dissenter,</hi> OR A CONFERENCE Between a Conformist AND A Separatist, (Being both Parishioners,) CONCERNING COMMUNION WITH THE <hi>Church of England.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be Sold by <hi>Joseph Collier,</hi> at the <hi>Bible,</hi> under the Gate on <hi>London-Bridge.</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64391:2"/>
+            <pb n="1" facs="tcp:64391:2"/>
+            <head>A CONFERENCE Between two PARISHIONERS, The one a CONFORMIST, The other a SEPARATIST, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Separatist.</speaker>
+               <p>
+                  <seg rend="decorInit">G</seg>OOD Morrow, Neighbour; I am glad to see you; and much desire some discourse with you about your practice in holding Communion with the Parochial Assemblies.</p>
+            </sp>
+            <sp>
+               <speaker>Conformist.</speaker>
+               <p>I hope, in so doing, I give no offence to any: I confess, I attend the publick Worship, and hear<g ref="char:EOLhyphen"/>tily rejoyce that I can hear Christ preach'd.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>If you will walk to my House, you and I will confer a little more about this matter: For I would be glad to understand upon what Principles you act; for I confess, I have not that latitude.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I hope you will judge charitably of me that
+<pb n="2" facs="tcp:64391:3"/>have; for we cannot all see with the same eyes: The Apostles Rule is, <hi>Let every man be fully perswaded in his own mind; and if any man be otherwise minded, God shall in time reveal it unto him. Therefore let not him that eats, despise him that eateth not; nor him that eateth not judge him that eateth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>You say very well: I confess, I am against Censoriousness; I am sure that's unlawful, whether Pa<g ref="char:EOLhyphen"/>rochial Communion be or not.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>But I hope you do not take it to be un<g ref="char:EOLhyphen"/>lawful to worship the most high God by prescribed Forms of Prayer, provided we cannot be permitted to do it publickly any other way.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Truly Sir, I am not free to oppose my Ju<g ref="char:EOLhyphen"/>nior thoughts to your Experience; but you know what Learned Men amongst us have written against it; and I cannot answer their Arguments.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I pray, who hath written against the law<g ref="char:EOLhyphen"/>fulness of joyning with the Liturgick way of Worship, when we must disobey Authority if we meet in great numbers to worship God any other wayes?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>As I told you before, I had rather give you the opinion of other men, than my own; and therefore I'le tell you what a Reverend Doctor saith in this matter.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I know some learned men may be of ano<g ref="char:EOLhyphen"/>ther mind: But if Learning must serve instead of Ar<g ref="char:EOLhyphen"/>guments, we may turn Papists as well as Separatists; for there have many learned men wrote in defence of the <hi>Roman</hi> Church. But I pray let me hear his Arguments; for I am for proving all things, and holding fast only that which is good.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>You say very well: For Authority without Reason signifieth nothing, or very little.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>If we should put it to the Poll, I could produce the writings and practices of above a thousand Nonconforming Ministers, in the justification of Lay<g ref="char:EOLhyphen"/>communion with the Parochial Assemblies.</p>
+            </sp>
+            <sp>
+               <pb n="3" facs="tcp:64391:3"/>
+               <speaker>Separat.</speaker>
+               <p>But I pray, have you so many Nonconfor<g ref="char:EOLhyphen"/>mists for Parochial Communion, that you could name above a thousand, whose writings or practice do ap<g ref="char:EOLhyphen"/>prove of it as lawful?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Yea, I doubt not but I could produce the writings and practice of the above-named number of Non-Conformists, if need were, for the lawfulness of attend<g ref="char:EOLhyphen"/>ing the publick Worship by the use of the Common Prayer, where there is but a tolerable Ministry: For it is granted by all men of great consideration, and well informed understandings, that some circumstantial im<g ref="char:EOLhyphen"/>perfections in the external modes of Administration, are no just ground for a total separation from such a Church, which maintains neither Heresie in Doctrine, nor Ido<g ref="char:EOLhyphen"/>latry in Worship; but preserves the Substantials of Re<g ref="char:EOLhyphen"/>ligion sound and good, as the Church of <hi>England</hi> doth. There was not five of the whole Assembly of Divines, besides the five dissenting Brethren, but what were of this mind; and the Body of <hi>London</hi> Ministers at <hi>Si<g ref="char:EOLhyphen"/>on-Colledge,</hi> did correspond with those at <hi>Westminster</hi> in the above-named Proposition, except some few hot men who were leavened with the Principles of Separa<g ref="char:EOLhyphen"/>tion, upon pretence of greater purity; which Mr <hi>Cart<g ref="char:EOLhyphen"/>wright</hi> on the <hi>Proverbs,</hi> calls the White Devil. See also Mr <hi>Calamy</hi> against <hi>Burton,</hi> Mr. <hi>Case</hi>'s Parliament Sermon, Mr. <hi>Dury</hi>'s <hi>Epistolary Discourses,</hi> and Mr. <hi>Edwards</hi> his <hi>Gangrena,</hi> and many others.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But if they think Lay-communion lawful, how comes it to pass that so many of them have writ<g ref="char:EOLhyphen"/>ten of late against the mischiefs of Imposition?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>The Arguments used in such Books, may serve perhaps against Ministerial Conformity; but by no means can they serve to prove Parochial Communion sinful, when our Governours require it as a Duty, and necessitate us to use that, or none. All men know there is a vast difference between Ministration in holy things, and attendance on holy Ordinances. Private Christians are not required to subscribe to be re-ordained, and to as<g ref="char:EOLhyphen"/>sent
+<pb n="4" facs="tcp:64391:4"/>and consent, as they who are Ministers are, who are admitted to a Cure of Souls. We may hear the Sermons, and the Prayers, and receive the Sacra<g ref="char:EOLhyphen"/>ment in a private capacity, without any of those things required of us.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>What do you think of <hi>Ames</hi>'s <hi>Fresh Suit against the Ceremonies?</hi> Hath not he said enough to convince any man they are unlawful?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>It may satisfie any Person, that if our Go<g ref="char:EOLhyphen"/>vernours thought it Convenient, they might remove ma<g ref="char:EOLhyphen"/>ny of those things out of the Church; but not to con<g ref="char:EOLhyphen"/>vince reading and intelligent men, that it is unlawful to attend the publick Worship of God, where the sub<g ref="char:EOLhyphen"/>stance of Religion is found and good, meerly because of some modal Defects, and circumstantial Imperfecti<g ref="char:EOLhyphen"/>ons; for it is well known, that <hi>Ames</hi> himself was against a total Separation; and wrote against it, even at the same time, when he wrote against the Imposi<g ref="char:EOLhyphen"/>tion of the Ceremonies; and tells the World, that the practice of the old Nonconformists was to attend the publick Worship as far as they could without Sin; as you may see in his <hi>Character of an</hi> English <hi>Puri<g ref="char:EOLhyphen"/>tan.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But can that which is unlawfully imposed, be lawfully obeyed?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Our Question is not, what the Magistrate ought to enjoyn, but how far we ought to submit: Let us study our Duty, instead of disputing his Pow<g ref="char:EOLhyphen"/>er. Arch-bishop <hi>Ʋsher</hi> used to say, that men ought to obey Authority in all such things which they could not give as good a reason to prove to be sinful, as they could to prove Obedience to Authority to be lawful: And I am sure, that the Nonconforming Ministers who were Commissioned by his Majesty, to consult with the Conformists about the Regulation of the Church in 1660. <hi>viz.</hi> Dr. <hi>Bates,</hi> Dr. <hi>Jacomb,</hi> Mr. <hi>Woodbridge,</hi> Mr. <hi>Cooper,</hi> Dr. <hi>Manton,</hi> Mr. <hi>Baxter,</hi> and several others, did grant that some Corruptions in the external Circumstances
+<pb n="5" facs="tcp:64391:4"/>of Worship might be sinful in the Imposer, and vo<g ref="char:EOLhyphen"/>luntary Chooser, who might serve God better, and would not; and yet they might be lawfully submitted unto by such who are constrained, and necessitated to use such, or none; as may be seen in the printed Hi<g ref="char:EOLhyphen"/>story of that Affair.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Then I perceive you have a greater Lati<g ref="char:EOLhyphen"/>tude than the old Nonconformists had; for they wrote very sharply against the Surplice, and against kneel<g ref="char:EOLhyphen"/>ing at the Sacrament, and did very much harmonize with the Congregational men in our Dayes; and one hath lately written a Book to prove it.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I told you before, although they did write against the Imposition of the Ceremonies, yet they did at the same time write against Separation from the pub<g ref="char:EOLhyphen"/>lick Assembly upon that account: And Mr. <hi>Ball</hi> tells you, that he did not understand the <hi>Brownist</hi> of his time, who at one jump leaps both out of the Surplice and the Parish Church too. I purposely omit quoting Pages, that men may read the whole Books: See his <hi>Trial of the Grounds of Separation,</hi> and you may receive ample Satisfaction.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But the Case is alter'd now from what it was when the <hi>Presbyterians</hi> wrote against the <hi>Indepen<g ref="char:EOLhyphen"/>dants;</hi> for now the terms of Communion are more dif<g ref="char:EOLhyphen"/>ficult and hard: Then there was no Common Prayer, nor kneeling at the Sacrament, nor several other things now required.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I grant that the Terms of Ministerial Con<g ref="char:EOLhyphen"/>formity may be harder; but I pray, what is required of the people in order to Communion, which is more uneasie now, than formerly? I am sure we have more preaching now, than there was fifty years ago; and some things in the Liturgy are explained; and particu<g ref="char:EOLhyphen"/>larly the reason of kneeling at the Holy Sacrament, to prevent any suspicion of Idolatry; and also many of the Prayers are mended and enlarged.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I confess I am not against hearing a good Sermon in a Church, when I cannot hear others more to
+<pb n="6" facs="tcp:64391:5"/>my mind: For I find Dr. <hi>Goodwin</hi> on the <hi>Ephesians,</hi> Mr. <hi>Nye</hi> in his <hi>Grand Case Resolved,</hi> Mr. <hi>Robinson,</hi> Mr. <hi>Jeremiah Burroughs,</hi> Mr. <hi>Cotton,</hi> and many other Con<g ref="char:EOLhyphen"/>gregational men, defend the lawfulness of hearing; but you speak as if you did not scruple kneeling at the Sa<g ref="char:EOLhyphen"/>crament</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I must tell you, if I might be left to choose my own gesture at the Supper, the Case were different; but if I must take it kneeling, or not at all, I have so impartially examined most that hath been wrote on both sides, that I very much incline to be of Mr. <hi>Vines</hi>'s Opinion, that Gesture is none of the Free-hold of the Ordinance, but is a thing left at liberty, to the determination of hu<g ref="char:EOLhyphen"/>mane prudence: For if the same Circumstances are re<g ref="char:EOLhyphen"/>quired of us which the Apostles and our blessed Savi<g ref="char:EOLhyphen"/>our used, we must take it leaning and not sitting; and we must receive it in a Garret, and without the company of Women, and a very small number, about Twelve; and with unleavened Bread, and with none but Mi<g ref="char:EOLhyphen"/>nisters. If a Law should constrain me to dine, and crave a Blessing on my Meat on my knees, I should do it rather than fast, or think that I adored the Bread, because it stood before me. I read, holy Mr. <hi>Dod,</hi> the famous Nonconformist advised his own Daughter to take it kneeling, in the Epistle to Dr. <hi>Morton</hi>'s Book: And Mr. <hi>Bains,</hi> another Nonconformist, in his printed Let<g ref="char:EOLhyphen"/>ters saith, if he had twenty Scruples in his mind about it, yet he should think it lawful for the reasons there mentioned: And Mr. <hi>Corbet</hi> is of the same mind, as you may see in his Writings: And I think, where the Ma<g ref="char:EOLhyphen"/>gistrate commands that which God hath not forbidden, and forbids that which God hath not commanded, there I may lawfully obey. Mr. <hi>Baily</hi> is of opinion, that men may as well plead for putting on their Hats, as for sitting at the Sacrament, to shew their familiarity and fellowship with Christ; and Mr. <hi>Tombs</hi> takes great pains, and to very good purpose, to shew that kneeling at the Supper is none of those things that have an appear<g ref="char:EOLhyphen"/>ance
+<pb n="7" facs="tcp:64391:5"/>of evil: Mr. <hi>Cartwright</hi> saith, the thing is not in its own nature unlawful, that we should therefore abstain from the Sacrament, if we cannot have it otherwise: And Mr. <hi>Troughton</hi> in his <hi>Apology</hi> tells us, that the old Non<g ref="char:EOLhyphen"/>conformists disliked kneeling, yet thought it tolerable, and might be submitted to in case of necessity; as when the Law of the Land commands it, and the Law of God no where forbids it; and <hi>where there is no Law, there is no Transgression.</hi> See Mr. <hi>Ashwell</hi>'s <hi>Gestus Eucharisti<g ref="char:EOLhyphen"/>cus,</hi> and Mr. <hi>Paybody</hi>'s Book on that Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I wonder you mention so many Authors, when one Scripture for it is worth them all.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I name these Nonconforming Authors first, because you are so ready to name the Authority of some; and I know not why the Authority of such Eminent men as those, may not preponderate theirs: But yet I do not depend upon their Judgments barely considered; but the strength of their Reasons, grounded on Scripture, which requires humble and Reverend Gestures in the Worship of the great God: Who can question, but I may as lawfully take the Body and Blood of the Blessed Jesus upon my knees, as take a Pardon from an earthly Prince in that posture?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But that which makes me dislike kneeling, and other Ceremonies, is, that in the use of them we symbolize too much with the Church of <hi>Rome?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You symbolize with the Pope in sitting; for he takes the Sacrament in that Gesture: If we must do nothing that the Church of <hi>Rome</hi> doth, we must not kneel when we pray, nor use Churches, nor sprinkle Infants. As at first under the pretence of honouring Christ, Antichrist was set up; so now under the pretence of opposing Anti<g ref="char:EOLhyphen"/>christ, Christ himself is in danger of being run down, as Dr. <hi>Burges</hi> well observed. I pray read those excellent Cases of Conscience now published, relating to Parochi<g ref="char:EOLhyphen"/>al Communion, written by the <hi>London</hi> Ministers, amongst which you will find this Question resolved: <hi>Whether</hi> Englands <hi>Symbolizing with the Church of</hi> Rome <hi>in some
+<pb n="8" facs="tcp:64391:6"/>things, be a just ground of Separation from the Church of</hi> England?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But I pray, where have you a Scripture Com<g ref="char:EOLhyphen"/>mand for Praying by a Form, and doing several other things in the Worship of God? The Apostles Commission runs thus; <hi>Observe all things whatsoever I command you.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>We must distinguish between the Substanti<g ref="char:EOLhyphen"/>als of Religion, and the Circumstantials: Christ hath given plain Commands about the former, but hath as plainly left the latter to the determination of humane pru<g ref="char:EOLhyphen"/>dence, to be directed according to the general Rules of the Word of God, containing things conducing to order and decency. I pray where have you a Scripture com<g ref="char:EOLhyphen"/>mand for sitting at the Sacrament? for laying your right hand on the Book, and kissing it in Swearing; and yet an Oath is part of Gods Worship? for Preaching in a black Cloak, for using an Hour-glass, for singing Psalms in Rhyme, for baptizing Children by Sprinkling, for receiv<g ref="char:EOLhyphen"/>ing the Sacrament once a month only, and at Noon rather than at Night; for ringing of Bells to call people to Church at ten a clock, for putting on your best Garments on Sun<g ref="char:EOLhyphen"/>days, for standing at Prayer? These and a hundred other Circumstances, are things left undetermined by Christ and his Apostles. I wonder what Scripture Command the <hi>Scotch</hi> Covenanters had for the professing Sign of lift<g ref="char:EOLhyphen"/>ing up their hand to Heaven, when they took that Cove<g ref="char:EOLhyphen"/>nant.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But God forbids adding or diminishing.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>He doth so: Therefore let them take heed of it, who say that his Law forbids that which he never for<g ref="char:EOLhyphen"/>bad: The Publican did not add to the Law, when he smote upon his Breast. Read the Second Part of the <hi>Pro<g ref="char:EOLhyphen"/>testant Reconciler,</hi> and the late <hi>Case of Conscience</hi> about <hi>Indifferent things,</hi> if you would not be imposed upon in this particular.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I grant many things relating to the Worship of God, are left to be determin'd by humane Prudence;
+<pb n="9" facs="tcp:64391:6"/>but then the People ought to determine those things amongst themselves, and not be imposed upon by others.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>So they do in the <hi>English</hi> Nation; for do not you, and I, and every <hi>English</hi> man, by our Representa<g ref="char:EOLhyphen"/>tives in the Parliament make these Laws? and is it not reasonable we should submit to them, until our Superiors think fit to alter them?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I dare not give so much to the Magistrates power in matters of Religion, when I know Christ is the Supream Law-giver of his Church.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>When the Magistrate is on your side, then you magnifie his power. I pray read Bishop <hi>Ʋsher</hi>'s Discourse of the <hi>Power of Princes,</hi> and read Mr. <hi>Samuel Clark</hi>'s Trea<g ref="char:EOLhyphen"/>tise of the <hi>Power of Magistrates in Matters of Religion;</hi> wherein he gives an account of the judgment of many eminent Non-conforming Ministers in their Parliament Sermons upon this Subject: And see what Mr. <hi>Byfield</hi> on <hi>Peter,</hi> writ upon that Text, <hi>Submit to every Ordinance of man for the Lord's sake;</hi> and likewise Mr. <hi>Sprint,</hi> the old Conformist, and Dr. <hi>Seaman</hi>'s Sermon before the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>For my part, I am afraid of Apostasie, when the Word of God saith, we ought not to build the things we once destroy'd; and also when I consider, If any man draw back, God's Soul shall have no pleasure in him; <hi>viz.</hi> shall abhor him.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>And I profess to you, I am as greatly afraid of wresting the holy Scriptures to my own destruction: I tremble to read that Text of Saint <hi>John, If any man add to the Sayings of this Book, God shall add to his Plagues.</hi> Now I add, when I give such a sense which the Holy Ghost ne<g ref="char:EOLhyphen"/>ver intended; I wish this be not one of the Sins for which the wise God now seems to contend with us. Let us not blame the Papists for making the Scriptures a Nose of Wax, and do the same our selves, by telling the People, <hi>Thus saith the Lord,</hi> when it never entered into his Heart; and thereby prophesying Lies in his name. Men ought to be very careful lest they misapply Scriptures which call
+<pb n="10" facs="tcp:64391:7"/>upon men to stand fast in the Christian Faith, to perswade them to obstinacy in a particular Opinion or Sect.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But it is good to keep a tender Conscience; and for my part, I cannot believe it is lawful for me to hold Communion with the Liturgick Worship; and <hi>whatsoever is not of Faith, is Sin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You say truly; it's good to keep a tender Conscience: And if you are fully perswaded it's unlaw<g ref="char:EOLhyphen"/>ful for you to joyn in Parochial Communion, you must forbear until you can be satisfied that you may lawfully do it; for it must be granted, that no man is Master of his own perswasion, nor can any man believe what he will believe; but every man must believe what appears to the Reason of his mind to be agreeable to Truth, <hi>&amp;c.</hi> But yet if there be doubts on both sides, <hi>viz.</hi> Whether it be lawful to Communicate, and whether it be lawful to Seperate, which must be the case of all men who have been true to their own Understandings in reading what hath been writ<g ref="char:EOLhyphen"/>ten on both sides; in this case it's best to take the safest side; and that is, to obey lawful Authority, which every man may be sure is his Duty, except forbidden by a higher Au<g ref="char:EOLhyphen"/>thority. For your further satisfaction in this case, read the first Edition of Dr. <hi>Sibs</hi>'s <hi>Souls Conflict,</hi> published by him<g ref="char:EOLhyphen"/>self, and Dr. <hi>Sanderson</hi>'s Sermons, and Dr. <hi>Ames</hi>'s <hi>Cases of Conscience</hi> about the obligation of a <hi>Doubting and Errone<g ref="char:EOLhyphen"/>ous Conscience;</hi> Mr. <hi>Geree</hi> also (the old Non-conformist) in his <hi>Vindication of the Church of</hi> England, and Mr. <hi>Capel</hi> in his excellent Discourse <hi>of Temptations.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>If a Man could exactly distinguish between a tender Conscience, and a tenacious obstinate Humour, it were well; possibly a Private Person may do it in himself, but its hard to do it in another man.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>There may some Rules of distinguishing be laid down, whereby a man may try himself whether his Separation be the Effect of his Tenderness, or Humour; as thus: A man that's truly tender, he will act against his apparent Interest, (I mean, his Worldly Interest) to secure the peace of his own mind: But here may be a
+<pb n="11" facs="tcp:64391:7"/>mistake; for a man may spend a great Sum of Money to defend himself against legal Prosecutions, and get well by the bargain, in pleasing those Customers and Benefactors who would not trust him if he complyed with Authority, nor have so good an Opinion of him: Many men have found a great Temptation in suffering some kind of loss. Again, a man that's truly tender, will take great pains to inform himself by hearing and reading what may be said on both sides; and hearken to what makes against his Opinion, as well as what makes for it. Again, such a one will be very humble and modest, and very charitable towards those who differ from him, and be very prone to suspect his own understanding, especially when he finds his Judgment and Practice differ from the Judgment and Practice of the wisest and best men that ever were in the Church of God; and they have ever looked upon a to<g ref="char:EOLhyphen"/>tal Seperation from publick Worship upon the occount of modal Imperfections, to be Schismatical. Again, a truly tender Conscience will look upon it as a very great Sin, to justifie his practice by wrested Interpretations, and appa<g ref="char:EOLhyphen"/>rent misapplications of Scripture. Again, a truly tender Conscience will be afraid of one sin as well as of another, and as much dread Disobedience to the lawful Commands of Authority, as of holding Communion with corrupt Mem<g ref="char:EOLhyphen"/>bers in the Church, and think it a very great Sin to disturb the peace of the Church by Faction and Schism about small Circumstantial differences, when there is neither Heresie in Doctrine, nor Idolatry in Worship. Read Mr. <hi>Jeremiah Burrough</hi>'s <hi>Irenicum</hi> upon this Argument; <hi>He that cannot do what he would, will do what he can;</hi> he'l not make the breach wider, nor the distance greater than he needs must, lest he should betray more of humour and Stomach, than of Conscience: He that cannot bow at the name of <hi>Jesus,</hi> yet can stand at the Creed; and if not that neither, yet he can be present at it: He that cannot kneel at the Sa<g ref="char:EOLhyphen"/>crament, yet can be present at the Prayers, and he that cannot hear the Prayers, yet may hear the Sermon. The truly tender Christian, that cannot obey the Laws him<g ref="char:EOLhyphen"/>self,
+<pb n="12" facs="tcp:64391:8"/>yet can forbear judging and censuring those that do They that can erect a Judicature for those who differ from them, and arraign them of Superstition or Formality, shall sooner convict themselves of Pride and Pragmatica<g ref="char:EOLhyphen"/>lity, than give proof of true tenderness of Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But why did not some amongst us comply sooner? the doing of it at this juncture, gives a very great suspicion that it is not Conscience, but Carnal Inte<g ref="char:EOLhyphen"/>rest, to save their Stake.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You ought to judge charitably of others, as you would have them to judge so of you; else your Non<g ref="char:EOLhyphen"/>compliance may by the same Rule be called Humour, Obstinacy, Schism, Sedition, and such like: But how<g ref="char:EOLhyphen"/>ever that may sometimes be made a mans Duty, which was not so alwayes; to go to the Publick of choice, is one thing, and to do it as a Duty put upon us by Gods Providence, and our Governours, is another: It is God that hath pulled down our Liberty to serve him otherwise, and we must obey him: It's no faulty mutability to change our practice, when God by changing our Condi<g ref="char:EOLhyphen"/>tion, changes our Duty; No more than it was to St. <hi>Paul,</hi> who to the <hi>Jews</hi> became a <hi>Jew,</hi> and Circumci<g ref="char:EOLhyphen"/>sed <hi>Timothy.</hi> We know very well that, <hi>vexatio dat intellectum,</hi> Penalty and Prosecution put men upon reading Discoursing, and considering those things better, which it may be formerly they never examined: and upon great inquiry, they come to examine whether the things they intended for or against, were of such mo<g ref="char:EOLhyphen"/>ment as they thought they had been. It's an Argument of great integrity for a man to change his mind upon clear and rational Conviction: See Mr. <hi>How</hi>'s Excellent ser<g ref="char:EOLhyphen"/>mon in the Morning Lectures against uncharitable Cen<g ref="char:EOLhyphen"/>soriousness; and Mr. <hi>Caryl</hi> on <hi>Job,</hi> on that Text, <hi>Why persecutest thou me, seeing the root of the matter is in me?</hi> O how unseemly is it for such who plead for a publick To<g ref="char:EOLhyphen"/>leration, to deny a personal one, and for those who con<g ref="char:EOLhyphen"/>demn Excommunication, yet Excommunicate their own Members for small matters. Dr. <hi>Manton</hi> in his Sermons
+<pb n="13" facs="tcp:64391:8"/>on the 119<seg rend="sup">th</seg> Psalm, severely condemns that Antichristian Spirit gotten among Protestants, of unchurching and un<g ref="char:EOLhyphen"/>christianizing one another for small Differences, imposing, censuring, and rending into Factions, and endeavouring to destroy all, to promote the Interest of one Party to the Prejudice of the whole: These things are contrary to the temper of a true Catholick Christian, and are a Sign of a Schismatical Separatist wherever they are found; for who is the true Catholick, but he that can hold Commu<g ref="char:EOLhyphen"/>nion with any true Church of Christ? and who is the re<g ref="char:EOLhyphen"/>al Schismatick, but he that will hold Communion with no Church but his own? See Mr. <hi>Gurnal</hi>'s <hi>Christian Ar<g ref="char:EOLhyphen"/>mour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sep.</speaker>
+               <p>I confess, for those men who alwayes thought it their Duty to hold Communion with the Conformists, I do not so much blame them; but to turn upon a suddain, is strange. Why did men formerly go to Meetings, if they do not do it still?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I think it looks much worse for a man to per<g ref="char:EOLhyphen"/>severe in an Errour, meerly because he once maintained it. They are without doubt the best of men that write Retractations, when once they come to see their mistakes, and fairly confess them to God and Man. But besides, you must distinguish between a time when the Supream Magistrate gives Indulgence, and when he denies it.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot but wonder to hear you plead for unscriptural Terms of Communion, as particularly Forms of Prayer, which stint the Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>How do you prove Forms of Prayer stint the Spirit, and that therefore it must be unlaw<g ref="char:EOLhyphen"/>ful to joyn with them? remember that I am not plead<g ref="char:EOLhyphen"/>ing for the imposing of them, but for the using of them: And I have made this Observation; That the Flower of our <hi>English Divines</hi> have judged Forms of Pray<g ref="char:EOLhyphen"/>er lawful, when they wrote in cold blood; and it matters not much what men say in their hot sits. D. <hi>Preston</hi>'s judgment may be seen in this matter, in his Treatise of
+<pb n="14" facs="tcp:64391:9"/>
+                  <hi>Prayer,</hi> and in his Sermon before King <hi>James:</hi> Mr. <hi>Ca<g ref="char:EOLhyphen"/>pel</hi> did approve of them, as may be seen in his Life, writ<g ref="char:EOLhyphen"/>ten by Mr. <hi>Marshal.</hi> Dr. <hi>Ames</hi> also in his <hi>Cases of Consci<g ref="char:EOLhyphen"/>ence,</hi> speaks favourably of them; Mr. <hi>Dod on the Com<g ref="char:EOLhyphen"/>mandements,</hi> Mr. <hi>Hildersham</hi> on <hi>John:</hi> Mr. <hi>Rogers</hi> in his seven Treatises perswades people to come to Church at the beginning of the Common Prayer; and not the Husband when it's half done, and the Wise at the end of the Service. See the <hi>Ministers of Old</hi> England <hi>to those of New,</hi> writ<g ref="char:EOLhyphen"/>ten by Mr. <hi>Ash</hi> and others; wherein they acknowledge the Common Prayer to be a holy and acceptable Service to God, and Edifying to well-disposed people.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I am sure many great Divines have written in defence of Separation.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I am sure more great Divines have written against it: See Mr. <hi>Perkins</hi> in his <hi>Exposition of the Epistle of St.</hi> Jude, telling the World, that no man can with a good Conscience separate from the Church of <hi>England,</hi> seeing it teacheth, believes and obeyeth the Doctrine of Christ and his Apostles; Mr. <hi>Brightman</hi> also on the <hi>Revelations,</hi> exceedingly condemns Separation from the publick Churches: See also Mr. <hi>Edgerton</hi>'s <hi>Practical Christianity,</hi> Pag. 691. <hi>Edit.</hi> 5. Mr. <hi>Bradshaw</hi> also in his <hi>Ʋnreasonableness of Separation;</hi> Mr. <hi>Nichols</hi> also in his <hi>Plea for Puritans,</hi> Mr. <hi>Rathband</hi> in his grave Admonitions: See Mr. <hi>Brinsly</hi>'s <hi>Arraignment</hi> of <hi>Schism,</hi> Mr. <hi>Wood</hi> against <hi>Lockyer,</hi> Mr. <hi>Paget</hi>'s <hi>Arrow against Seperation,</hi> Mr. <hi>Caudray</hi> against Dr. <hi>Owen,</hi> Mr. <hi>Knewstabs</hi> in the Epistle before his Ser<g ref="char:EOLhyphen"/>mons, Mr. <hi>Greenham</hi> in his Life; read also the Story of Mr. <hi>Penry,</hi> who was executed in Queen <hi>Elizabeth</hi>'s time, told by Mr. <hi>Cotton</hi> against <hi>Williams,</hi> Page 117. which would make a Separatists Heart ake: See Mr. <hi>Fox</hi> his Letter about Separation in <hi>Fuller</hi>'s <hi>Church History,</hi> Lib. 9. pag. 106. And Mr. <hi>Brown</hi> the Father of the <hi>Brownists,</hi> who Conformed at last, as you will find in <hi>Ful<g ref="char:EOLhyphen"/>ler:</hi> Read also old Mr. <hi>Parker,</hi> in his Book call'd the <hi>Profane Schism of the Brownist,</hi> Chap. 12. who applies
+<pb n="15" facs="tcp:64391:9"/>our Saviours words to them, <hi>Father, forgive them, for they know not what they do:</hi> Read also Mr. <hi>Hildershams</hi> Letter to a Gentlewoman in Prison, about Communion with the Church of <hi>England;</hi> See Mr. <hi>Ball</hi>'s <hi>Trial of Se<g ref="char:EOLhyphen"/>peration,</hi> Mr. <hi>Dyke</hi> on the 124<seg rend="sup">th</seg> Psalm, and when you have perused the Scriptural Arguments of these men, you will be better satisfied about Lay-Commu<g ref="char:EOLhyphen"/>nion.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I confess you have brought abundance of Excellent Mens Authority in the Justification of Forms of Prayer, and against Seperation upon the Account of the Liturgy; but these were old Non-conformists, and (as I hinted before) the Case is very different now from what it was before the Wars: You'l find it a very difficult matter to name many Non-confor<g ref="char:EOLhyphen"/>mists who now agree with them, because we have more light now.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You are much mistaken; I can name ma<g ref="char:EOLhyphen"/>ny Eminent Non-conformists, who have written against a total Separation from the Publick Worship of God in the Parochial Assemblies, even since his Majesties Restoration; and therefore the Judgment of Moderate Non-conformists are not so much alter'd, upon the pre<g ref="char:EOLhyphen"/>tence of new Light as you call it. I pray read what Mr. <hi>Baxter</hi> hath written in the Defence of his <hi>Cure of Church Divisions,</hi> Mr. <hi>Bruning of Ipswich,</hi> in his Ser<g ref="char:EOLhyphen"/>mon at the Election of Knights of the Shire, Mr. <hi>Shef<g ref="char:EOLhyphen"/>field</hi> in his <hi>Treatise of Excuses.</hi> Dr. <hi>Collins</hi> of <hi>Norwich,</hi> although he hath writ against the Imposition of Forms of Prayer, yet tells the World, that he thinks it not unlawful to joyn with them, even at the Holy Sa<g ref="char:EOLhyphen"/>crament; Mr. <hi>Croften</hi> also, in his <hi>Saints Care for Church Communion,</hi> writes against Separation from the Paro<g ref="char:EOLhyphen"/>chial Churches; Dr. <hi>Bryan</hi> also in his Sermons called <hi>Dwelling in God,</hi> answers the Separatists Objections against the Common-prayer; Mr. <hi>Corbet</hi> of <hi>Chichester</hi> in his <hi>Plea for Lay-Communion,</hi> doth the like, Mr. <hi>Hum<g ref="char:EOLhyphen"/>phry</hi>'s <hi>two Steps,</hi> Mr. <hi>Read</hi>'s <hi>Case,</hi> Mr. <hi>Faircloughs Pa<g ref="char:EOLhyphen"/>stors
+<pb n="16" facs="tcp:64391:10"/>Legacy to his People,</hi> Mr. <hi>Tomb</hi>'s his <hi>Apology for attending the Parish Worship,</hi> Mr. <hi>Joseph Allen</hi>'s <hi>Life,</hi> and Mr. <hi>Richard Allen's Farewel Sermon,</hi> Mr. <hi>Cra<g ref="char:EOLhyphen"/>dacott</hi>'s <hi>Farewel Sermen,</hi> Mr. <hi>Lye</hi>'s <hi>Farewel Sermon.</hi> Mr. <hi>Hickman</hi> in his <hi>Bonasus Vapulans,</hi> tells the World wherever he comes, he perswades people to attend the publick way of Worship; and his Conscience would flye in his face, if he should do otherwise: See also Mr. <hi>Pool</hi>'s <hi>Vox Clamantis,</hi> a Latine Book, Mr. <hi>Gouge</hi>'s Practice in the Sermon at his Interment, and Mr. <hi>Sa<g ref="char:EOLhyphen"/>muel Clark</hi>'s <hi>Life,</hi> written by himself.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But surely we ought to joyn with the Pu<g ref="char:EOLhyphen"/>rest Church, and where there are the fewest corrupt Members at the Holy Sacrament; for if any man that is call'd a Brother, be a Rayler, or a Persecutor, with such a one we ought not to eat.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I grant, we ought to choose the purest Com<g ref="char:EOLhyphen"/>munion we can; but yet we ought not to disturb the peace of the Church, nor to use any unwarrantable Me<g ref="char:EOLhyphen"/>thods, but to observe the Providence of God, and re<g ref="char:EOLhyphen"/>gularly reform what is amiss, according to our place and Station: For as Dr. <hi>Manton</hi> on <hi>Jude</hi> observes, Cor<g ref="char:EOLhyphen"/>rupt Mixtures are ground of Lamentation, but not of Separation: He <hi>that eats and drinks unworthily, eats and drinks damnation to himself,</hi> not to me who Receive with him, provided I do my Duty to inform him, and to inform against him, as Mr. <hi>Vines</hi> on the <hi>Sa<g ref="char:EOLhyphen"/>crament</hi> well observes: Mr. <hi>Jenkins</hi> on <hi>Jude</hi> gives ma<g ref="char:EOLhyphen"/>ny Reasons to prove that it is Civil eating, and not Religious, that the Apostle there forbids: Shall I re<g ref="char:EOLhyphen"/>fuse to go to the Supper, because there is one there, that hath not on a Wedding Garment, saith Mr. <hi>Vines;</hi> and the Provincial Assembly of <hi>London Ministers</hi> did grant, that there were greater Corruptions in the Church of <hi>Corinth,</hi> than in any of their Congregations; and yet the Apostle no where calls for a Seperation; and the <hi>New-England</hi> Ministers attest, in the <hi>Platform of Discipline, "That as Separation from a Church, where
+<pb n="17" facs="tcp:64391:10"/>scandalous livers are tolerated, is not presently ne<g ref="char:EOLhyphen"/>cessary, so for the worthy Members to abstain from Com<g ref="char:EOLhyphen"/>munion with such a Church, in the participation of Sa<g ref="char:EOLhyphen"/>craments, is unlawful.</hi> So Mr. <hi>Burroughs</hi> in his <hi>Gospel Worship</hi> tells us, that we are not defiled by the meer presence of wicked men at the Sacrament, (that's a Deceit and Gull that some would put upon them that differ from them) but they are thus far defil'd, if they do not their duty to purge them out as far as they have power: Read Mr. <hi>Jeans</hi> on the <hi>Sacrament,</hi> and Mr. <hi>Blake</hi>'s <hi>Vindication;</hi> And the five Dissenting Bre<g ref="char:EOLhyphen"/>thren do declare this sincere Profession before God and the World, that all the Conscience of the Defilements in the Church of <hi>England,</hi> did never work in any of them any thought, but that multitudes of the Paro<g ref="char:EOLhyphen"/>chial Congregations were the true Churches of Christ. And Mr. <hi>John Goodwin</hi> acknowledgeth, that there was more of the Truth and Power of Religion under the late Prelatical Government, than in all the Reformed Churches in the World besides: See his <hi>Sion Colledge Visited;</hi> read also what Mr. <hi>Henry Jacob</hi> hath wrote upon this Subject against a total Separation; and he was looked upon as the Father of the Independants: Have a care lest you refuse Communion with Railers while you are such a one your self.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I much fear some mens Compliance at this time, will put a stop to a Covenant-Reformation.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I am of Opinion that nothing more promotes Reformation, than Union amongst all Christians of the Reformed Religion; and nothing more hinders it, than Separation, and Division; take Bishop <hi>Ʋsher</hi>'s word for it, as you may see in his Life; and read Dr. <hi>Bar<g ref="char:EOLhyphen"/>row</hi>'s <hi>Sermons,</hi> and Bishop <hi>Hall</hi>'s <hi>Peace-maker,</hi> and you will be of my mind: I confess I am prone to think, that if our Dissenters would come to Church, and by their pre<g ref="char:EOLhyphen"/>sence encourage their Ministers to preach well, and live well, and if he doth not, to acquaint the Bishop, and get him suspended, and a better in his stead; this would
+<pb n="18" facs="tcp:64391:11"/>more conduce to publick Reformation, than running away from them and railing at them: The best way to reform the Publick, is for every one to endeavour to reform his own Life, and his own Family, and to leave National Reformation to our Governours: Read "Dr. <hi>Horton</hi>'s, and Mr. <hi>Watson</hi>'s Sermon before the Parliament, and they will tell you, that the Covenant was not only against Sin in General, but Schism in Particular; and that the very Letter of it was broke. For my part, I think no man can bind himself to that which is not-in his power, and an unlawful Oath is better broke than kept, when made without a legal Authority. A <hi>Minor</hi> under the Law, if he had made a Vow about any thing, even relating to the Worship of God, it was null and void, if made without the free consent of the Superiour. We ought (as one observes) to go to the Scriptures to know what's our Duty in the Worship of God, and not to the Covenant: If the Scriptures make it not a Sin, the Magistrates Com<g ref="char:EOLhyphen"/>mand will make it a Duty. We ought to promote Unity; and as the World goeth now, this Commu<g ref="char:EOLhyphen"/>nion is the nearest, and needful to express our Unity: It is rather Perjury and Covenant-breaking, either to preferr no publick Worship before the Liturgy, or to refuse Communion with the Churches that use it. It is worth observing, that the Divines who framed the Co<g ref="char:EOLhyphen"/>venant, (and therefore best understood the obligations of it) do in their larger Catechism prefix this Advice: That at Family Worship care ought to be taken, that each Family meet by themselves apart, lest it tend to the prejudice of the publick Ministry, and cause Schisms and Separations in the Church: For as Dr. <hi>Sibs</hi> well ob<g ref="char:EOLhyphen"/>serves in his Sermons on the <hi>Corinthians,</hi> Separation is often a greater fault, than those things for which men pretend to seperate, because attended with want of Charity.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I am not so much against Parochial Com<g ref="char:EOLhyphen"/>munion upon the account of different modes of Wor<g ref="char:EOLhyphen"/>ship,
+<pb n="19" facs="tcp:64391:11"/>as upon the account of erroneous Arminian Do<g ref="char:EOLhyphen"/>ctrine taught in the Pulpit: The true Gospel way of Preaching is left off; and the generality of young men preach up meer Morality, and the power of Nature.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>There are very few men that censure what they hear, who understand those Controversies; and the most wise are of opinion, that those differences are more in words, than in things; and they can with grief of heart hear both <hi>Arminians</hi> and <hi>Calvinists</hi> charge one another with such odious consequences which neither of them maintain: Without doubt a Man may be a ve<g ref="char:EOLhyphen"/>ry good Christian that practiseth the Sermons of one or t'other, because they agree, if not in their Doctrine, yet in their Application, as Mr. <hi>Chillingworth</hi> well ob<g ref="char:EOLhyphen"/>serves: it's an easier thing to believe in Christ as our Saviour meant it, than to understand the Definition of Faith as the Schools expound it: Those Doctrines are most likely to be true, which most promote the Ho<g ref="char:EOLhyphen"/>nour of the Creator, and the Diligence of the Crea<g ref="char:EOLhyphen"/>ture: I assure you, all the Ministers I hear are agreed in this great Truth delivered by our Saviour; <hi>viz. He that believes shall be saved, and he that be<g ref="char:EOLhyphen"/>lieves not shall be damned.</hi> Doth the Minister you hear own the Merits of Christ in the point of Justification, and the Spirit of Christ in the work of Sanctification? Do not quarrel with his Doctrine for you know not what: You'l find some of your own Brethren differ amongst themselves about these Points, of Prescience, Predetermination, Liberty and Necessity. Let me ad<g ref="char:EOLhyphen"/>vise you to read the moderate Peace-making reconciling Authors, who endeavour to narrow differences; espe<g ref="char:EOLhyphen"/>cially Judge <hi>Hale,</hi> Bishop <hi>Wilkins,</hi> Dr. <hi>Tillotson,</hi> Mr. <hi>Boyl,</hi> and Mr. <hi>Dent's Plain Man's Path-way to Hea<g ref="char:EOLhyphen"/>ven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot understand how such who have re<g ref="char:EOLhyphen"/>ceived a Commission from Jesus Christ to preach the Gospel, with a Woe annexed if they do not, can lay down their Ministry upon the Command of a humane Authority.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:64391:12"/>
+               <speaker>Conform.</speaker>
+               <p>Truly, nor I cannot understand it, neither if they do it voluntarily, and without Compulsion, when they might preach and will not; but that's not the Case; for men are silenced by a legal Authority. Thô it be a Duty to preach the Gospel, yet it's not the Duty of all men, at all times, and in all places, as it was at the first Plantation of Christianity by the Apo<g ref="char:EOLhyphen"/>stles, who had an immediate Call from God, and could work Miracles to confirm their Doctrine: However there are more wayes than one to preach the Gospel: Men may go from house to house, and by personal Conferences, and pious Exhortations, (within the bounds of the Law) may edifie and promote the Conversion of Souls. Read Mr. <hi>Jeremiah Burroughs</hi>'s Advice in his Sermons called <hi>Christian Courage in Evil Times,</hi> Mr. <hi>Joseph Allen</hi>'s <hi>Call to</hi> Archippus, Dr. <hi>Manton</hi>'s Case resolved on the 119<seg rend="sup">th</seg>. Psalm, <hi>pag.</hi> 334. The old Non-conformists did all the good they could in a private capacity, when they were silenced by the Bishops from preaching publickly; and they thought it their Duty to submit to their Suspensions, so long as their Diocesans did it by the Law of the Land, as Mr. <hi>Rath<g ref="char:EOLhyphen"/>band</hi> observes in his <hi>Grave Admonitions,</hi> and old Mr. <hi>Parker</hi> challenges the World to give an instance of any signs of Pride, or Contempt of Authority: Do we, saith he, perswade any man to refuse the Ceremonies for which we suffer? We stretch our Consciences to the utmost, to Conform; we do not willingly cast off our Ministry, but submit to the Providence of God, who calls us from it. See his Book on the <hi>Cross,</hi> part. 21. pag. 34: And Mr. <hi>Geree</hi> in his <hi>Vindication of the Church of</hi> England, in the Epistle, (though a Non-confor<g ref="char:EOLhyphen"/>mist) saith, That for men to preach publickly against the Command of the Christian Magistrate, without an immediate Call from God, he never thought excusable from Faction. The Magistrate in <hi>England</hi> doth not for<g ref="char:EOLhyphen"/>bid preaching in the name of Christ, for they appoint persons to do it, and make Laws to punish Subjects
+<pb n="21" facs="tcp:64391:12"/>for not hearing. Thanks be to God, we have the Prayers and the Scriptures read in a known Tongue; therefore your Case and the Apostles very much differ. Read Bishop <hi>Ʋsher</hi>'s Sermon before King <hi>James,</hi> on the <hi>Ʋnity and Ʋniversality of the Catholick Church.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Good Sir, Do you think that God will ever make use of a carnal, scandalous Ministry to convert Souls?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Because I industriously shun long Disputes, and tedious Answers, I refer you to the Scriptural Rea<g ref="char:EOLhyphen"/>sons of excellent <hi>Divines,</hi> who assert it as very proba<g ref="char:EOLhyphen"/>ble that he doth: As Mr. <hi>Pemble</hi> in his Discourse of the <hi>Nature and Properties of Grace,</hi> pag. 125. Mr. <hi>Samu<g ref="char:EOLhyphen"/>el Hiern,</hi> in his <hi>Preachers Plea,</hi> and Mr. <hi>Fenner</hi>'s Ser<g ref="char:EOLhyphen"/>mon called <hi>Christ's Alarum to drowsie Saints,</hi> and Mr. <hi>Anthony Burges</hi>'s Treatise of <hi>Faith</hi> and <hi>Assurance,</hi> pag. 503. and Mr. <hi>Swinnock</hi> in his <hi>Christian Calling,</hi> pag. 155. First Part.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>All this while you omit the most conside<g ref="char:EOLhyphen"/>rable thing, to justifie Communion with the Parochi<g ref="char:EOLhyphen"/>al Assemblies: You should prove them to have the matter and form of true Gospel Churches.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>That I could easily do. First. As for the the Matter of our Parish Churches, they are a Com<g ref="char:EOLhyphen"/>pany of visible Professors of Saving Faith in Christ, with their Children, by the Baptismal Covenant sepa<g ref="char:EOLhyphen"/>rated for God, and dedicated to him, and do take the name of Saints, as the Primitive Churches did. Second<g ref="char:EOLhyphen"/>ly, And as for the Form, 'tis their congregating toge<g ref="char:EOLhyphen"/>ther in a stated course to worship God in Christ, the only Mediatour between God and Man, to call upon his Name, to hear his Word, to partake of his Sa<g ref="char:EOLhyphen"/>craments, which was the Form, and the only essential Form of the particular Church of <hi>Corinth, Ephesus, Phi<g ref="char:EOLhyphen"/>lippi,</hi> and the rest; so that our Parish Churches, and the Primitive Churches planted by the Apostles, are for matter and form exactly the same; and those who conceive the matter of a Church to be real Saints, have
+<pb n="22" facs="tcp:64391:13"/>mistaken the true sense and meaning of Scripture, and upon the false interpretation thereof have built their new Notions. See Mr. <hi>Hudson</hi>'s <hi>Essence and Ʋnity of the Catholick Church,</hi> Mr. <hi>Geree</hi>'s <hi>Ten Cases resolved,</hi> Mr. <hi>Herl</hi>'s <hi>Independency on Scripture,</hi> of the Independent Churches.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>You seem so much for Parochial Commu<g ref="char:EOLhyphen"/>nion, that you make me suspect that you are for a total Separation from the Non-conformists in their Meet<g ref="char:EOLhyphen"/>ings.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You mistake, for I am for Catholick Com<g ref="char:EOLhyphen"/>munion. I think it Schismatical to separate from any good Christians, where the Providence of God gives me an opportunity to hold Communion, provided the Numbers are such as give no just offence to my law<g ref="char:EOLhyphen"/>ful Superiors, well knowing, that the Law hath left men within the compass of the Promise; <hi>viz. Where two or three are met together in</hi> Christ's <hi>name, he is in the midst of them.</hi> I am not against occasional Com<g ref="char:EOLhyphen"/>munion with any Christians who observe such Rules of Prudence as transgress not the Laws of the Land.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>To make Laws about the Worship of God, and appoint what he hath not commanded, I am afraid it looks like an usurpation upon the kingly Office of <hi>Je<g ref="char:EOLhyphen"/>sus Christ,</hi> who above all things ought to have the pre<g ref="char:EOLhyphen"/>eminence in teaching spiritual Duties.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I grant, to impose any Ceremonies, to teach spiritual Duties without a License from Christ himself, is to trespass upon his Kingly and Prophetical Office; but I know no Ceremonies appointed to be used to that end, and therefore the Argument is grounded up<g ref="char:EOLhyphen"/>on a false Supposition. The Church, I confess, hath appointed such Ceremonies as she conceiveth apt to stir up the dull mind of man to the remembrance of his Duty by some special Signification; but she hath no where said, that she injoyns them to teach spiri<g ref="char:EOLhyphen"/>tual Duties; she hath injoyn'd her Ministers to wear a Surplice when they officiate, but hath not said, that
+<pb n="23" facs="tcp:64391:13"/>she injoyns it to teach them innocence or purity: She injoyns people to kneel at the Sacrament; and she tells us, that we should signifie thereby our humble and grateful acknowledgments of the Benefits of Christ, but she doth not say that she designs thereby to teach us Humility and Gratitude for those benefits, but only calls upon us to express that Humility and Gratitude which she supposeth us to have already. And I pray, once again take notice, that I am not pleading for the Imposition of any Ceremonies, but only arguing how far it may be our Duty to submit to them when imposed, rather than diso<g ref="char:EOLhyphen"/>bey lawful Authority, disturb the publick Peace, and ruine our Families; thereby rendering our selves worse than Infidels: But it can be no incroachment on the Offices of Christ, to make use of such things, as are only apt to stir up our minds by way of remembrance of our known prescribed Duty: If this be unlawful, it's un<g ref="char:EOLhyphen"/>lawful to tole a Bell to put us in mind of going to Prayers, or to keep by us a Death's Head to put us in mind of our Mortality: Is it a derogation from the kingly. Office of Christ to require men to come gravely into the House of God, with their Heads un<g ref="char:EOLhyphen"/>covered, and to kneel at Prayer, because those things are apt to stir up the dull mind of man to the remem<g ref="char:EOLhyphen"/>brance of the Majesty and Greatness of God: Christ hath not in Scripture set down all those things that may give occasion to good Affections, and pious Me<g ref="char:EOLhyphen"/>ditations. You know the Story of the Cook, who from the consideration of the heat of his own fire, was mo<g ref="char:EOLhyphen"/>ved to reflect on the torments of Hell fire, and thereby to abstain from that which would expose him to it: See Mr. <hi>Tombs</hi> his <hi>Theodaliae,</hi> who proves Lay-Com<g ref="char:EOLhyphen"/>munion with the Liturgy no derogation to the king<g ref="char:EOLhyphen"/>ly Office of Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But don't you know that under the Law, there was nothing appointed in the Worship of God, but was fully set down, even unto the Pins of the Tabernacle; and nothing might be done by <hi>Moses</hi> nor
+<pb n="24" facs="tcp:64391:14"/>
+                  <hi>Solomon,</hi> about the Tabernacle, or the Temple, though they were two of the wifest men that ever lived; but it must be according to the Pattern which God had given in writing: Since therefore Christ was faithful in all his house, (as <hi>Moses</hi> was) he hath also given us a Pattern, <hi>viz.</hi> the holy Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>This Argument holds as strong against the Statute-Book, as the Liturgy, and if the Argument here holds from the Fidelity of <hi>Moses,</hi> to that of <hi>Christ,</hi> we ought to have had a Form of Civil Government, as well as of Sacred; or else Christ must be thought less faithful; for he faith of the Judicial Law, as well as of that relating to the Worship of God, <hi>You shall observe to do as the Lord hath commanded you, and shall not turn unto the right hand, or to the left:</hi> And in<g ref="char:EOLhyphen"/>deed Arguments taken from Similitudes may conclude things false; for there was a High-priest, therefore there must be an Universal Bishop over all Christians, if your Argument hold good; and you know who will thank you for that.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>If you could give out any Instances of such things appointed by the Rulers of the <hi>Jewish</hi> Church, in sacred things, besides what <hi>Moses</hi> ordained by di<g ref="char:EOLhyphen"/>vine Command, you would say something.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Dear Friend, I could mention several Par<g ref="char:EOLhyphen"/>ticulars for which they had no Precept to direct them, but the use of Reason, and prudential Discourse, for directing the practice both of Priest and People: But because our time is short, I shall only refer you to read Dr. <hi>Lightfoot</hi>'s <hi>Temple Service:</hi> As for Instance; the High-priest was to confess over the Scape-Goat all the Iniquities of the Children of <hi>Israel;</hi> but we find not in the Law of <hi>Moses</hi> any Form of words that the Priest was to use; therefore the Elders of the Church appointed him to say, <hi>Ah, Lord! Thy people, the House of Israel, have sinned; we beseech thee, O Lord, ex<g ref="char:EOLhyphen"/>piate
+<pb n="25" facs="tcp:64391:14"/>the Sins, Perversities and Transgressions of thy people.</hi> And see many more particulars in the Doctors Book.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But can you produce any Circumstances re<g ref="char:EOLhyphen"/>lating to the Worship of God, which Christ hath left undetermined, and referred to humane Prudence under the Gospel.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Yes, many: As for instance; Christ hath commanded us to assemble for his solemn Worship, but he hath said nothing of the time and place where and when he would have us assemble, or of the Or<g ref="char:EOLhyphen"/>naments of the place, or of the disposal of the Seats, or whether we should sit or stand, whil'st hearing, or with what number we should meet, or how long we should be together, whether use a set Form, or pray <hi>ex-tempore,</hi> whether the Minster alone, or the people joyn their voices with him; nor in reading hath he told us what Book, what Chapter, what Part should be read, nor what Translation, nor whether the Mi<g ref="char:EOLhyphen"/>nister should preach by Doctrine, Reason and Use, or without, nor what Subject he should chuse, nor whe<g ref="char:EOLhyphen"/>ther with Notes, or from his memory; nor hath he told us how often we should receive the Sacrament, nor whether the Bread should be all of Wheat, or of some other Grain, or the Wine Sack, Claret or Mus<g ref="char:EOLhyphen"/>cadine. Innumerable other Instances I could give of things left by <hi>Jesus Christ</hi> to be determined by hu<g ref="char:EOLhyphen"/>mane Prudence.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Now under the Gospel God will not accept any thing of the Creatures devising in his Ser<g ref="char:EOLhyphen"/>vice, but will now be worshipped in Spirit and in Truth.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>This Notion of yours, I am perswaded, is a meer humane Invention; and the common people run away with a great mistake, when they hear or read the Sermons of some against unnecessary Impositi<g ref="char:EOLhyphen"/>on, and thence inferr, that they must not joyn with such a mode of Worship, as hath some things in it
+<pb n="26" facs="tcp:64391:15"/>that are faulty and defective; especially, when the Pro<g ref="char:EOLhyphen"/>vidence of God doth not permit them to enjoy such as they call Purer Ordinances: Moreover, Worshipping God in Spirit and in Truth is opposed to Formality, not to Forms of Prayer; for a Christian may pray in the Spirit, and use a Form too. A Man may worship God with his Heart, and yet with his voice, and upon his knees, and with his head uncovered. I pray, read Mr. <hi>Byfield</hi> on <hi>Peter, Submit to every Ordinance of Man for the Lord's sake.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Good Neighbour, doth not your Submissi<g ref="char:EOLhyphen"/>on to the Impositions of man, bereave you of your Chri<g ref="char:EOLhyphen"/>stian Liberty? And we are bidden to <hi>stand fast in the Liberty wherewith Christ hath made us free,</hi> and not to be <hi>again entangled with the Yoke of Bondage.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Is it not very absurd (think you) to sup<g ref="char:EOLhyphen"/>pose, that our Lord should purchase for his Church a liberty to disobey Superiours; especially, when our Obe<g ref="char:EOLhyphen"/>dience to them visibly promotes Love, Peace, Unity, Humility and holy. Order; and our Disobedience pro<g ref="char:EOLhyphen"/>motes, Schisms, Dissentions, Uncharitableness, Calum<g ref="char:EOLhyphen"/>nies, Wrath, Strife, Contentions, and exposeth Fami<g ref="char:EOLhyphen"/>lies to ruine. The Magistrates Command cannot vio<g ref="char:EOLhyphen"/>late our Christian Liberty, so long as it's only in things of an indifferent nature, because the Conscience is obli<g ref="char:EOLhyphen"/>ged by them: At this rate the Commands of Masters and Parents must violate Christian Liberty: If we re<g ref="char:EOLhyphen"/>fuse to submit to things indifferent, because command<g ref="char:EOLhyphen"/>ed; 'tis but forbidding us to yield Obedience to them, and then, by your own Principles, we must be exact Conformists. Christian Liberty cannot be violated by requiring Persons to do that of which their Conscience (being erroneous) doubts; for, if it were, then our Laws violate Christian Liberty, when they command the <hi>Quaker</hi> to pay Tythes, and the Papist to take the Oath of Supremacy. See Mr. <hi>Downham</hi>'s <hi>Christian Li<g ref="char:EOLhyphen"/>berty,</hi> and Mr. <hi>Botton</hi>'s <hi>True Bounds of Christian Free<g ref="char:EOLhyphen"/>dome,</hi> and Mr. <hi>Galespy</hi>'s <hi>Wholesome Severity reconciled to Christian Liberty.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="27" facs="tcp:64391:15"/>
+               <speaker>Separat.</speaker>
+               <p>For my part I dare not joyn with the Pa<g ref="char:EOLhyphen"/>rochial Assembies in their Ceremonies, lest I should encourage Superiors in their imposing Burthens upon others; and harden them in that which I take to be their Sin; and so should be a partaker in Guilt. I think it my Duty rather to bear my Testimony against these things.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>This Opinion will lead to Faction in the State, as well as to Schism in the Church; and we may as well quarrel with many Acts of Parliament, which may in time become burthensome; and if this Opi<g ref="char:EOLhyphen"/>nion be true, then must our Lord and his Apostles become guilty of the like Sin; for they did ordinari<g ref="char:EOLhyphen"/>ly joyn with the <hi>Jews</hi> in their publick Service; not<g ref="char:EOLhyphen"/>withstanding they who sate in <hi>Moses</hi>'s Chair, imposed more Ceremonies than are imposed in our Church: We only become guilty of the Sins of others direct<g ref="char:EOLhyphen"/>ly, by actually consenting unto, willing or approving of the Sin of others, or by commanding the doing of it, or by perswading, encouraging, or alluring others to Sin: Or Indirectly, when we do that which is a culpable occasion of Sin: But here is no occasion just<g ref="char:EOLhyphen"/>ly given, though it may be unjustly taken. We find in Scripture, it was required that they should lye down in their Idol Temples to worship, and yet the <hi>Jews</hi> (though God no where commanded them to do so) did at the eating of their Passover lye down, in to<g ref="char:EOLhyphen"/>ken of the Rest that God had given them in the good Land; and we find, that Christ and his Apostles did conform themselves to this Custom, without thinking themselves guilty of the Sin of those who first requi<g ref="char:EOLhyphen"/>red this Idolatrous Custom. What if <hi>Independency</hi> were too rigorously imposed? must we forbear it, or justifie the Law?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I must deal freely with you, and declare, that one great Objection that I have against Parochial Communion, is, That it minister Scandal to our weak<g ref="char:EOLhyphen"/>er Brethren; and you know what the Apostle saith in that case.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:64391:16"/>
+               <speaker>Conform.</speaker>
+               <p>I cannot tell how the People in the City have been taught; but I think, if any of them are so weak, as to be scandalized at their Fellow Citizens Communion with the publick Assemblies, they ought to be better instructed; for, Scandal (properly con<g ref="char:EOLhyphen"/>sidered) is an action whereby occasion is ministred to the Sin, Fall, and Ruine of our weak Brother, by laying a Stumbling-block in his way: But that Sin and Fall of others which is occasioned by my doing of my Duty, cannot be my Sin: So the Preaching of the Cross was to the <hi>Jews</hi> a Stumbling-block, and the Gospel preach<g ref="char:EOLhyphen"/>ed was to some a Savour of Death. By Obedience to the lawful Commands of my Superiours, I cannot be guilty of sinful Scandalizing of my Brother, because Obedience is my Duty. The Scandal caused by one that refuseth Communion, when he may lawfully obey, is <hi>Scandalum datum,</hi> because it ariseth from the Omissi<g ref="char:EOLhyphen"/>on of a Duty; but the Scandal administred by the Com<g ref="char:EOLhyphen"/>municant, can be only <hi>Scandalum acceptum,</hi> or Scan<g ref="char:EOLhyphen"/>dal arising not from the Action of him that holds Com<g ref="char:EOLhyphen"/>munion, but from the Ignorance and Weakness of him that is offended at his so doing; for I give my weak Brother no just occasion to be grieved at what I do, or to pass Censure upon me as an Evil-doer, or to separate from Communion with me, or to do with a doub<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing Conscience what he seeth me do: But, by omission of my Duty to Superiours in lawful things, I give just occasion to all who piously and peaceably con<g ref="char:EOLhyphen"/>form, to grieve at my Action, and to pass their Cen<g ref="char:EOLhyphen"/>sures on me, as one turbulent, schismatical, and diso<g ref="char:EOLhyphen"/>bedient to higher Powers: And if I do (by my ex<g ref="char:EOLhyphen"/>ample) occasion the Omission of my Brother's Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and his Separation, I shall be justly charged with his guilt, as ministring Temptation to him by that Exam<g ref="char:EOLhyphen"/>ple, to neglect what he ought to do; and so I must offend him truly (in the Apostles <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ense) by tempting him to Sin. As I <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not effend my Brother, so I must not offend my Gover<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our, who is my <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rother
+<pb n="29" facs="tcp:64391:16"/>also. Read Dr. <hi>Sanderson,</hi> Bishop <hi>Ʋsher,</hi> Bishop <hi>Rey<g ref="char:EOLhyphen"/>nolds,</hi> and other excellent Divines who have written upon this Argument, and it will plainly appear, that he that refuseth to conform to Lay-Communion, lest he should offend his weak Brother, seems directly to sin himself, to avoid an occasion of Sin in another; and so offends God, the King, the Church, the Laws and Conscience too, by not doing his Duty, lest he should offend his Brother by doing it: And therefore I cannot but commend the practice of such Non-con<g ref="char:EOLhyphen"/>forming Ministers who go unto the Parish-Churches, if it be but to convince the people, (by their practice) that they do not think it a Sin so to do.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But when you once begin to comply, do you know where you shall end? Therefore it's best not to yield in the least, but to shun the beginnings of Sin.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>When you once begin to separate from the publick Worship, do you know where you shall end? whether in Athei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m or Quakerism, as multitudes have done, who have thrown off all Ordinances upon the pre<g ref="char:EOLhyphen"/>tence of purer Administrations? We are to examine whether the Commands of our Superiors are at pre<g ref="char:EOLhyphen"/>sent lawful, not whether they may be so hereafter: Will you like it, if your Child should refuse to obey your lawful Commands; for fear you should live to command something that's unlawful? This Argument would cancel the Obligation of all Laws. Let us do our present Duty, and trust God with future events; and when we are called to suffer rather than sin, we may then suffer comfortably: For (as Mr. <hi>Jeremiah Burroughs</hi> well ob<g ref="char:EOLhyphen"/>serves) it hath been a very dividing Principle, that some Men have taken up, <hi>viz.</hi> Not to go as far as they could, because they could not go as far as they would. In<g ref="char:EOLhyphen"/>deed it's good to shun the Beginnings of Sin, but it's not good to call that Sin which God never call'd so.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Pu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by your Complicance, you occasion the
+<pb n="30" facs="tcp:64391:17"/>Sufferings of many consciencious Christians, who cannot do as you do; and so you encourage Persecutors.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Its a gross mistake, to think that our Com<g ref="char:EOLhyphen"/>munion justifieth the penal Severities of the Laws on others: What if it were death for a man to have his Hat on at the publick Prayers? doth it justifie the ri<g ref="char:EOLhyphen"/>gour of the Law, for a man to pull off his Hat? Must I forbear that which my Conscience calls my Duty, if an other suffer for counting it a Sin? have not Mr. <hi>Tombs</hi> and Mr. <hi>Nye</hi> writ in defence of the Oath of Su<g ref="char:EOLhyphen"/>premacy, though many have suffered for refusing it. Must not I obey the Laws, because others suffer for disobeying them? Mr. <hi>Strong</hi> in his Sermons call'd <hi>Two Sticks made One,</hi> tells us, That the way to Peace and Unity, is, for men to comply as far as they can, even against their own Rights; and Mr. <hi>Cotton</hi> on <hi>Cant.</hi> saith, That it's no Infringement of Christian Liberty to submit to Christian Laws. I remember, one of my Neighbours neglected to baptize his Child, who, when I blamed him for not bringing his Child to Church for that end, told me, one of his Brothers discou<g ref="char:EOLhyphen"/>raged him, who had never brought any of his Children, because it would be a means to cause his suffering for the Omission: But this was a very weak Argument for the former to neglect his Duty.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>This sinful Compliance weakens the Prote<g ref="char:EOLhyphen"/>stant Interest.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Sinful Compliance I condemn as much as you do; and I am sure that sinful Separation streng<g ref="char:EOLhyphen"/>thens the <hi>Roman</hi> Interest; and I am confident, that Uni<g ref="char:EOLhyphen"/>on amongst those who profess the Reformed Religi<g ref="char:EOLhyphen"/>on, is the best Bulwark against Popery: See Bishop <hi>Ʋsher</hi>'s Life, and an excellent Discourse, called, <hi>The Necessity of maintaining the present established Religion in opposition to Popery.</hi> See Dr. <hi>Bates</hi>'s his <hi>Farew<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Ser<g ref="char:EOLhyphen"/>mon,</hi> and he will tell you, That <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>paration and Divi<g ref="char:EOLhyphen"/>sion gives a nighty advantage to Popery;</hi> Mr. <hi>Wood</hi> an eminent Presbyterian, in his Answer to <hi>Lockyer,</hi> tells
+<pb n="31" facs="tcp:64391:17"/>him, That the <hi>Separating Principle is like to prove a Disgrace to the Reformation, and will open a Door to Popery.</hi> Read also Mr. <hi>Gataker</hi> against <hi>Can,</hi> and Mr. <hi>Whitaker</hi>'s Sermon before the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But by going to the publick we do, as it were, acknowledge our selves to have been in an er<g ref="char:EOLhyphen"/>rour formerly, when we went to private Meetings.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I confess, I have often thought that the reason why many would not come at the Parish Churches, was, either from Ignorance, Melancholly or Shame, which are the three grand Causes of Scrupulosity: But, I pray, why should any man be ashamed to change his pra<g ref="char:EOLhyphen"/>ctice, if he once comes to see, his errour and mistake. Let me ask you one Question: Did you ever imagine before, that so many Learned, Wise and Good Men were against a total Separation from the Parish Chur<g ref="char:EOLhyphen"/>ches? Have not the best men that ever were chan<g ref="char:EOLhyphen"/>ged their practices, when they have been convinced of their Errours and Mistakes? Have we not the Ex<g ref="char:EOLhyphen"/>ample of the Prophets and Apostles for it, and of the ancient Fathers of the Church for it? I could give mul<g ref="char:EOLhyphen"/>titudes of Examples of young persons, who have wrote and disputed vehemently for Separation, but in their more experienced age confess their Errour: They come nearest the Inspired Writers, who have the humility to confess their Mistakes.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>For my part, I am for keeping to the Rule of Scripture; and as the Conformists justifie their Se<g ref="char:EOLhyphen"/>paration from the Church of <hi>Rome,</hi> even by the same Arguments may the Non-conformists justifie their Se<g ref="char:EOLhyphen"/>paration from the Church of <hi>England,</hi> there being abun<g ref="char:EOLhyphen"/>dance of things required not contained in our only Rule of Faith, the Bible.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Let me tell you, this is a very fallacious way of arguing, to confound Articles of Faith with Circumstances of Worship; used by some Jesuitical Writers, who go under the name of Protestants, as <hi>Heath</hi> did formerly, as you may read in the Book
+<pb n="32" facs="tcp:64391:18"/>called <hi>Foxes and Fircbrands,</hi> and in other later Pam<g ref="char:EOLhyphen"/>phlets: But as a full Answer to such impertinent Wri<g ref="char:EOLhyphen"/>tings; I pray read a late Treatise called <hi>The difference of the Case between Separation from the Church of</hi> Rome, <hi>and Separation from the Church of</hi> England.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Your saying that indifferent things in the Worship of God, no where forbidden, are lawful, is but the same thing with the <hi>Romanists</hi> talking of Ne<g ref="char:EOLhyphen"/>gative Articles of Faith, and demanding where it is forbidden to pray to Saints departed, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>The Case (as I said before) is vastly dif<g ref="char:EOLhyphen"/>ferent; for we are required expresly to pray to God alone in the name of Christ; and will you paral<g ref="char:EOLhyphen"/>lel the Object of Prayer with a Vesture, a Gesture, and a Mode of Expression, things neither commanded nor forbidden. Read the Second Part of the <hi>Prote<g ref="char:EOLhyphen"/>stant Reconciler,</hi> and also the <hi>Protestant Peace-maker,</hi> written by the present Learned Bishop of <hi>Cork.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>As I hinted before, I wonder to find you name so many Authors, when (I assure you) I don't intend to pin my Faith upon mens Sleeves, but upon the Word of God.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>The reason why I referr you to these ex<g ref="char:EOLhyphen"/>cellent Authors, is, because I would have you see that I am not singular in my Judgment and Practice; and moreover, because I study brevity in this Dis<g ref="char:EOLhyphen"/>course, and referr you to further enquiry at your leisure; and I must tell you, I am no more for pin<g ref="char:EOLhyphen"/>ning my Faith upon Humane Authority, than you are, and no further than these excellent Men expound Scrip<g ref="char:EOLhyphen"/>tures according to the <hi>Analogy</hi> of Faith, do I respect them; neither do they desire that we should be Fol<g ref="char:EOLhyphen"/>lowers of them any further than they are of Christ. Let me ask you, do you think your self wise enough to understand the Scriptures without a Guide? All the Differences among Christians may be reduced to one Original, <hi>viz.</hi> about the sense and meaning of the Scrip<g ref="char:EOLhyphen"/>tures: And now it's a great satisfaction to every wise
+<pb n="33" facs="tcp:64391:18"/>and good man, to see the Expositions of Learned and Pious Divines, that so he may not be imposed upon by cunning and crafty men, who lay wait to deceive, by false gloss and wrested Interpretations of Scripture; and strange it is, that you who cry out against Hu<g ref="char:EOLhyphen"/>mane Authority when they are against your Opini<g ref="char:EOLhyphen"/>ons, shall nevertheless consult at the same time with some private Friend, or Chap-man whose Opinion you esteem, though it may be of very weak judg<g ref="char:EOLhyphen"/>ment; and this person (like the Pope) must be thought as if he were infallible, when a hundred men of better understandings must be rejected, because they contradict your Sentiments: Thus men betray egre<g ref="char:EOLhyphen"/>gious Folly and sinful Partiality: And let a man of great Piety, profound Reason, and long Experience, write a Book against your Principles and Practices, he shall be charged with Imprudence and Inconside<g ref="char:EOLhyphen"/>ration by some weak narrow-soul'd Persons; and this shall be a sufficient Answer to all his Arguments. Thus men by Partiality set barrs to Truth, and perpetuate Errour, and resolve to remain blind by shutting out the light; and whilest they condemn an implicite Faith, exercise nothing else.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot understand this temporizing hu<g ref="char:EOLhyphen"/>mour now grown so much in fashion, meerly to pre<g ref="char:EOLhyphen"/>vent Suffering.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Nor I cannot understand how some men can suffer Christianly, and comfortably for refusing to joyn in the publick Worship of God in the Parish Chur<g ref="char:EOLhyphen"/>ches, seeing lawful Authority requires it, and a higher Authority no where forbids it.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Do you think a Christian cannot have peace in suffering, who refuseth to do a lawful Action, whilest the thing appears to him to be unlawful.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I do not deny but he may, through the in<g ref="char:EOLhyphen"/>vincible prejudices of Education, and for want of bet<g ref="char:EOLhyphen"/>ter information, and (it may be) through want of judg<g ref="char:EOLhyphen"/>ment to discern the Arguments brought against his Opi<g ref="char:EOLhyphen"/>nion,
+<pb n="34" facs="tcp:64391:19"/>or perhaps want of leisure to read and converse with intelligent persons who would undeceive him.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I hope you would not have weak Christi<g ref="char:EOLhyphen"/>ans read such Formal Books as plead for carnal Com<g ref="char:EOLhyphen"/>pliance; this is the way for men to be lead into dan<g ref="char:EOLhyphen"/>gerous Temptations.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Those are not dangerous Books that teach men their Duty to God and the King. I am of Opinion nothing hath contributed more towards our present Di<g ref="char:EOLhyphen"/>visions in matters of Religion, than that those who are once proselyted to a Party, account no Book safe, or worth the reading, than those of their own Teach<g ref="char:EOLhyphen"/>ers, unless it be on those common Truths that touch not the mattter in difference; many amongst us being like some in the Lord <hi>Bacon</hi>'s time, who (as he ob<g ref="char:EOLhyphen"/>serves of them) thought it a tempting of God to read a Book contrary to their private Opinions. Old Mr. <hi>Dod</hi> (I confess) used to advise his Hearers not to read the <hi>Brownist</hi>'s Books for fear of being infected by them, and so doth Mr. <hi>Capel</hi> in order to the avoiding Temp<g ref="char:EOLhyphen"/>tations, as you may see in his Book on that Sub<g ref="char:EOLhyphen"/>ject.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I am sure our Saviour pronounceth them Blessed that suffer for Righteousness sake; and tells them, that <hi>their's is the Kingdom of Heaven.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You say very true; but it's not the Punish<g ref="char:EOLhyphen"/>ment, but the Cause that makes the Martyr. Mr. <hi>Baxter</hi> in his Book call'd <hi>Obedient Patience,</hi> tells us, that there are many who now suffer in a Cause that's neither good nor justifiable, for refusing Parochial Com<g ref="char:EOLhyphen"/>munion: Good Brother, let us lay our Hands upon our Hearts, and put this Question to our selves; Whe<g ref="char:EOLhyphen"/>ther turning our backs upon publick Worship, when we can have it no otherwise, will bear us out with comfort in suffering? Let us have a care lest we pull down trouble upon our own Heads: I am afraid suffer<g ref="char:EOLhyphen"/>ing for refusing to comply with the external Circum<g ref="char:EOLhyphen"/>stances of our Religion, cannot be called a <hi>Persecution
+<pb n="35" facs="tcp:64391:19"/>for Righteousness sake:</hi> Then I suffer as a Christian, when the Honour of Christ, or something that offers violence to my Religion and Christianity it self is con<g ref="char:EOLhyphen"/>cerned in it, when I suffer for that which I cannot avoid without disowning my self to be a Christian, and making Shipwrack of Faith, and a good Conscience: But where the Case is not evidently thus, a man may draw miseries upon himself, and yet not suffer as a Christian, because it may proceed from Humour or Interest. Men very often place Religion in doing or not doing what is no part of it; and then they think they may safely suffer upon that account. Doth that man suffer for Religion, who suffers for refusing to do that which our Blessed Saviour and his Disciples did; <hi>viz.</hi> hold Communion with publick Worship, notwithstanding some Corruptions in the circumstanti<g ref="char:EOLhyphen"/>al mode of Administration. The Church of <hi>Galatia</hi> was turned aside to another Gospel, and held Justifi<g ref="char:EOLhyphen"/>cation by Works, and some in the Church of <hi>Corinth</hi> denyed the Article of the Resurrection, and yet Saint <hi>Paul</hi> no where calls for a Separation. Sure I am, the Primitive Christians would never have passed thorough the fiery Trial, nor the Holy Martyrs in Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> dayes have forfeited their Lives and Estates, had no more been required of them, than there is of us: <hi>viz.</hi> To come to Church, or to kneel at the Sacrament; but would rather have blessed God, and thankfully have owned the favour of their Governours. For Subjects obstinately to stand out about such small matters, it makes them Martyrs to their own humors, rather than to the Cause of Christ, as Mr. <hi>Bernard</hi> well observes in his <hi>Counsels of Peace: If men suffer for known Truths, or against known Error and Wickedness, they are safe; for which they have the Examples of Gods Word, and of holy Martyrs; but beware</hi> (saith he) <hi>of suffering for things unknown to all former ages, though they seem ne<g ref="char:EOLhyphen"/>ver so just.</hi> And as the Father observes, it's every whit as glorious to suffer the Flames of Martyrdom, and to
+<pb n="36" facs="tcp:64391:20"/>dye for not dividing the Church by causless Separati<g ref="char:EOLhyphen"/>ons, as it is to be burnt for refusing to Sacrifice to Idols. To be persecuted for Righteousness sake, sig<g ref="char:EOLhyphen"/>nifieth, to be persecuued for Obedience unto God; But when men are prosecuted for disobedience to law<g ref="char:EOLhyphen"/>ful Authority, (supposing they are convinced the thing required is lawful) they suffer not for God's sake, but for their own, and not as Martyrs, but as Male<g ref="char:EOLhyphen"/>factors: This made St. <hi>Peter</hi> distinguish so carefully be<g ref="char:EOLhyphen"/>tween suffering as an Evil-doer, and as a Christian; <hi>Chap.</hi> 2. <hi>ver.</hi> 13. Now to suffer as a Christian, is to suffer for the Christian Religion, or for any fundamen<g ref="char:EOLhyphen"/>tal Truth of it, as the Prophets and Apostles did of old; who in all their Sufferings were reduced to this sad necessity of disobeying God, or the Civil Authori<g ref="char:EOLhyphen"/>ty. Read Bishop <hi>Bilsons</hi> Discourse of <hi>Christian Sub<g ref="char:EOLhyphen"/>jection.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But do you think a man cannot suffer as a Christian for refusing to submit to the Ceremonies of the Church.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>In case of necessity, that a man must not worship God publickly at all, unless he submit to the use of such Ceremonies which perhaps he thinks in<g ref="char:EOLhyphen"/>convenient, but cannot prove them absolutely unlaw<g ref="char:EOLhyphen"/>ful: In this case a man may sin in suffering, because at the same time he suffers for neglecting the publick Worship of God, which he cannot enjoy without the Ceremonies. But, (as I said before) if a man hath used the best means he could to inform his Under<g ref="char:EOLhyphen"/>standing, and yet is fully perswaded it is sinful to use the Ceremonies, he will suffer the more comfortably, and deserves to be the more pitied.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I could not take the Sacrament at the Rale, for I scruple coming up to the Altar: I am for do<g ref="char:EOLhyphen"/>ing nothing more than the Law requires.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I do not place Holiness in one part of the Church more than in another; but yet, it being more convenient for the Minister to give it at that
+<pb n="37" facs="tcp:64391:20"/>place, and because I would not be singular, when the Generality of the People accustom themselves so to do, I see no Superstition in it; especially if the Minister desires me to come up to the Table, thereby to pre<g ref="char:EOLhyphen"/>vent some mens Jealousie, lest he should dispense with the kneeling Gesture in a private Pew, and thereby render himself obnoxious to the Canon of Suspension. And if some men choose rather to call the Commu<g ref="char:EOLhyphen"/>nion Table an Altar, that shall not affright me away from it: What matter is it to a wise Man which way the Communion Table stands? Suppose he that pla<g ref="char:EOLhyphen"/>ced it so, had a Superstitious Intention, that doth not make me criminal. If this be all you scruple, I sup<g ref="char:EOLhyphen"/>pose your Minister will gratifie you, and give it in your Pew, the Law not forbidding it. But you and I know, that the Ancients used the word Altar with great Innocency, only as a figurative Expression, and no more understood by it: If the Rales be only intended to secure it from indecent usage, and to express Reverence and Respect to the Sacrament, as we are told they are, I know no hurt in them; nor will I refuse the Sacrament upon that account, so long as the Scripture no where forbids it, and Custom, in some Churches, obligeth men to come up to that place. And whereas you say, you'l do nothing but what the Law requires; I wonder why you keep your Hat off in the Church, for there's no Law for it: There was no Law to compell our Saviour to contribute to the Tem<g ref="char:EOLhyphen"/>ple, he did it to avoid offence.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot go to those Churches where there are Organs; it seems to me to be a Popish foolish way of Praising, and a meer Device.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I am not fond of them, yet I think it not lawful to separate from publick Worship upon that ac<g ref="char:EOLhyphen"/>count, seeing Instrumental Musick was used in the <hi>Jew<g ref="char:EOLhyphen"/>ish</hi> Church, and directed by <hi>David</hi> and <hi>Solomon;</hi> and it is also used in the <hi>Lutheran,</hi> and in many of the Reformed Churches as well as in ours, and many Pi<g ref="char:EOLhyphen"/>ous
+<pb n="38" facs="tcp:64391:21"/>Men profess their Spirits much raised and elevated by it in singing the Praises of the great God; there<g ref="char:EOLhyphen"/>fore I would not impose upon them, or hinder their Elevation of Soul. See Mr. <hi>Baxter</hi>'s Opinion of Or<g ref="char:EOLhyphen"/>gans, who saith, a man may as lawfully use them, as drink a Glass of Wine to raise his Spirits when dull; read also Bishop <hi>Hall</hi>'s <hi>Meditations,</hi> Dr. <hi>Moor</hi> also, and the Excellent Bishop of <hi>Cork</hi> upon the same Sub<g ref="char:EOLhyphen"/>ject.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>The Non-conformist Ministers will not go to Church, very few of them at least; and they must starve for want of maintenance, if all the people should forsake them, as you do.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>The Case of us Lay-men, and of Non-con<g ref="char:EOLhyphen"/>forming Ministers, (as I told you) is vastly different; their Practice cannot be a Rule to us; they dare not appear in the Church, in a Corporation, for fear of being sent to Prison, according to the Five-mile Act; there<g ref="char:EOLhyphen"/>fore do not look for them there: But though many of them do not come to Church, yet the Moderate ones amongst them do; especially in the Countrey Villa<g ref="char:EOLhyphen"/>ges, where they dare appear in publick: And where<g ref="char:EOLhyphen"/>as you say, they must starve, if not heard; I hope some of them can live without your maintenance: And for those amongst them that are Poor and Indigent, you may contribute your Charity towards their Re<g ref="char:EOLhyphen"/>lief, without breaking the Laws to hear them Preach in great numbers, when you may hear them in pri<g ref="char:EOLhyphen"/>vate Families.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>We ought to hold Communion where there is the best Discipline.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>You say true, when you can have it in a lawful way; <hi>viz.</hi> by Prayers to God, humble Addres<g ref="char:EOLhyphen"/>ses to Authority, faithful Performance of Duty both to Ministers and Church Members: But men must have a care lest they act so irregularly, as to deserve Church-censure and Discipline themselves, for taking a bad course to come at Church-discipline upon others: Men
+<pb n="39" facs="tcp:64391:21"/>must not do evil, that good may come; this is to cure the Church by cutting her Throat. <hi>Austin, Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vin, Cyprian,</hi> and the most and best Divines, are against Se<g ref="char:EOLhyphen"/>paration meerly for defective Discipline: But yet, let me tell you, the Parish-Churches are not without Dis<g ref="char:EOLhyphen"/>cipline, for the Title Rector (which the Law gives to all Parsons) implyeth it: And in the <hi>Rubrick</hi> the Mi<g ref="char:EOLhyphen"/>nister is not only Authorized, but commanded to keep all Scandalous Persons from the Sacrament; and the same Order is given in the Canon. Besides, every Parish hath Wardens under Oath, to present all Scan<g ref="char:EOLhyphen"/>lous Persons in order to Punishment: Shall you and I neglect our Duty, in holding Communion with the publick Congregations, because other me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neglect theirs? At that rate we must hold Communion with no Church. I wish, that you, and others of our dissenting Brethren that complain, are not accessary to the want of Discipline, by withdrawing your Brother<g ref="char:EOLhyphen"/>ly Assistance, for Discipline must begin at the Peo<g ref="char:EOLhyphen"/>ple. The way to cure the Church, saith old Mr. <hi>Ca<g ref="char:EOLhyphen"/>lamy</hi> in his Sermon at <hi>Aldermanbury,</hi> is not to sepa<g ref="char:EOLhyphen"/>rate from them, but to continue with them; and by dwelling amongst them, to labour to enrich and heal them. We must not hurt a Community for private Convenience. Separation shews a great want of Cha<g ref="char:EOLhyphen"/>rity, and consequently of a true Catholick Spirit: It's below the Spirit of a generous Christian to look at his own things; for he desires not to please himself, but all men for their Edification.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>That's the very thing that makes me sepa<g ref="char:EOLhyphen"/>rate: I find I cannot edifie by our own Parish Preach<g ref="char:EOLhyphen"/>er, he is so dull, and reads all his Sermon.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>Perhaps the fault may be more in the Hear<g ref="char:EOLhyphen"/>er than in the Preacher: Did you not come with pre<g ref="char:EOLhyphen"/>judice against the Minister? Perhaps you are dull and heavy your self, and slept away the greatest part of the Sermon, or, it may be, your thoughts were taken up with Secular Affairs. There are thousands of Glo<g ref="char:EOLhyphen"/>rified
+<pb n="40" facs="tcp:64391:22"/>Saints in Heaven, and of Gracious Souls on Earth, that have found Edification in the Parish Chur<g ref="char:EOLhyphen"/>ches of <hi>England.</hi> I could tell you of an Eminent Di<g ref="char:EOLhyphen"/>vine, <hi>viz.</hi> Mr. <hi>Geree,</hi> who hath told the World in Print, that amongst all the Spiritual Converts that are in our Church, not one in a thousand hath been con<g ref="char:EOLhyphen"/>verted by a Separatist, but before ever they went into the way of Separation: And if using Notes hinder Edi<g ref="char:EOLhyphen"/>fication, you must not hear the best and the ablest of your own Teachers, who do the same thing: At this rate the Ministers must get the Chapters by heart, and not read them neither, lest it hinder your Edification; do but shut your eyes, and then you may be edifi<g ref="char:EOLhyphen"/>ed.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I don't understand why we should be refu<g ref="char:EOLhyphen"/>sed the choice of our own Pastors for our Souls, any more than of our Physicians for our Bodyes.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Whether the People have a Right to choose their own Pastors, you and I will not now determine; neither is it proper to our particular Case: The Que<g ref="char:EOLhyphen"/>stion is, Whether if you are not permitted to choose your own Pastors, you may therefore turn your back upon his Ministry, and grieve and discourage him by your absence, and thereby shew an ill Example to others to do the same, when it may be he is a tolerable good Preacher, and a very good Man? If the Do<g ref="char:EOLhyphen"/>ctrine preach'd in the poorest Parish-Church in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> be but humbly heard and embraced (though by a weak Minister) there can be no danger of Salva<g ref="char:EOLhyphen"/>tion, because it's the Doctrine of Christ, and the same for Substance which the Brethren preach in private. Be sure to add to your Ministers Labours hearty Pray<g ref="char:EOLhyphen"/>ers for a Blessing, and godly Conferences, and Watch<g ref="char:EOLhyphen"/>fulness over your Hearts and Lives, and mourn for those Sins which have deprived you of such Pastors as you desired to choose; but do not forsake the Assem<g ref="char:EOLhyphen"/>bling of your selves together in the Publick Worship of God, which is much to be preferred before the Pri<g ref="char:EOLhyphen"/>vate
+<pb n="41" facs="tcp:64391:22"/>Assemblies. Read Mr. <hi>Charnock</hi> upon the <hi>Divine At<g ref="char:EOLhyphen"/>tributes,</hi> pag. 140. What if you did not choose your Mi<g ref="char:EOLhyphen"/>nister at first? yet if you consented to him afterwards, and have received benefit by his Ministry, or might have done, had it not been your fault; this is no just Plea for Se<g ref="char:EOLhyphen"/>paration: The <hi>London</hi> Presbyterians gave good reason why in some Cases People are not to be trusted with the choice of their own Pastors: See their <hi>Jus Divini Mini<g ref="char:EOLhyphen"/>sterii.</hi> And Dr. <hi>Seaman</hi> hath particularly answered this Ob<g ref="char:EOLhyphen"/>jection in a single Treatise, and so hath Dr. <hi>Stillingfleet</hi> in his <hi>Ʋnreasonableness of Separation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot joyn in the Responses at your Prayers; to me it looks like that vain Babling which the Scripture condemns.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>If we impartially consider the matter, it will not appear so; for by our Saviours Caution against vain Repetitions, it seems there are some Repetitions that are not vain: And this we may suppose, because Christ him<g ref="char:EOLhyphen"/>self praying in his Agony, thrice used the same Petitions, and that in the same words: That which our Saviour con<g ref="char:EOLhyphen"/>demns, seems to be that Repetition which proceeds from the affectation of much speaking in Prayer, or from a belief that God will not be moved to help us, unless we use many words, and repeat the same thing over in a tedious manner; but when the matter repeated is weighty and grave, and apt to move Pious Affections, it cannot be liable to the charge of Vanity: Such Petitions as, <hi>Lord have Mercy upon us,</hi> deserve the putting forth of the whole strength of our Desires and Affections; and when we ascribe Glory to the holy Trinity, we express what we ought to make the end of our Worship, and of all the Actions of our lives. How can such as charge our Service with vain Repetitions, have a Reverend esteem of the 136<seg rend="sup">th</seg> Psalm, where for 26 Verses together, <hi>His Mercy endureth for ever,</hi> is repeated in very verse. If our Devout Af<g ref="char:EOLhyphen"/>fections go along with our vocal Responses, it is a good way to check a wandring Spirit, and help and relieve At<g ref="char:EOLhyphen"/>tention, and to excite a lively Activity in God's Service, by provoking one another to pray and to give thanks.
+<pb n="42" facs="tcp:64391:23"/>This was the practice of the Primitive Church, before Popery was known: Read Dr. <hi>Faulkners Libertas Ecclesiastica,</hi> and Mr. <hi>Hookers Ecclesiastical Pollicy,</hi> and the second part of the <hi>Protestant Reconciler.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I cannot joyn in these things, lest I should encou<g ref="char:EOLhyphen"/>rage people in Superstition by my example.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Your refusing to hold Communion with Gods publick Worship, encourages people more in superstition than you are aware of; for that's properly Superstition, to scruple and place Religion in forbearing lawful actions, with a <hi>touch not, tast not, handle not:</hi> let me tell you, that you do ten times more mischief by your Separation, than you think you do: for I would judge charitably, and hope that you do not design mischief; you harden all the Sectaries in their way: You promote <hi>Atheism,</hi> people's seeing so many new unheard of ways in Religion, think there is no Religion at all, and so neglect all. Again, you are guilty of the sin of Schism, for such a Sin is all causeless separation; you under<g ref="char:EOLhyphen"/>mine the reputation of your Parish Minister thereby, render his Ministry the less successeful; you wrong the Separators by cherishing their causeless scruples, and so become acces<g ref="char:EOLhyphen"/>sary to the weakness of their Consciences, you train them up to a dislike of publick Authority, cause them to break the first Commandment; and nourish in them Spiritual pride, in judging better of themselves than they ought. Read Mr. <hi>Bradshaws Ʋnreasonableness of Separation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But do you seriously perswade me to go to Church?</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>Not I, but the Law: I'le perswade no man to do what he is not satisfied he may do with a good Consci<g ref="char:EOLhyphen"/>ence; for I have no ambition to make Proselytes; neither am I the better or the worse, for another mans differing from me. I confess in general, I think my self obliged in Conscience, to perswade those with whom I converse, to peaceableness of temper, and to Obedience to Authority; and I hope one good effect of this discourse will be, to help to cure that censorious Spirit that abounds; by letting men see how little cause they have to condemn others, for do<g ref="char:EOLhyphen"/>ing that which they have good reasons for, and such argu<g ref="char:EOLhyphen"/>ments
+<pb n="43" facs="tcp:64391:23"/>which I fear the Separatists never thought on. If this Conference doth but bring Dissenters to more Charity to<g ref="char:EOLhyphen"/>wards those who do conform to Lay-Communion, it will be a good step towards their doing so too in time themselves.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I do admire how you can submit to the Use of the Cross in Baptism, which is so plainly a significant Cere<g ref="char:EOLhyphen"/>mony.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I am not Ignorant what tedious Disputes there have been amongst learned men about this Matter, whether it may lawfully be imposed; but this is none of our present controvesie: The Question is between you and I Lay-men, Whether we may lawfully suffer our Children to be so Bap<g ref="char:EOLhyphen"/>tized with it, when we cannot have it done without it: for my part, I do not in the least Question but we may. For con<g ref="char:EOLhyphen"/>sider, this Professing sign was anciently used by the Primitive Christians (before the Corruptions of Popery were ever heard of,) in defiance of all sorts of Infidels, in token that they should not be ashamed of a crucified Saviour: we do in this but follow the examples of the purest and holiest Profes<g ref="char:EOLhyphen"/>sors of the Gospel that ever were: The Cross is not appointed to represent any thing to us, but only to remind us of a Duty which we are bound to do; like that Altar which was built by the Children of <hi>Reuben</hi> and <hi>Gad,</hi> not for Burnt offering, nor for Sacrifice, but that it might be a Witness. The Question is not, Whether it be lawful for the Minister to use it; that hath been denyed by those very Nonconformists, who do grant that Lay men may offer their Children to be Baptized where it is used, if they cannot have it done without it. Because Baptism is Gods Ordinance, and the Sin (if it be one) is the Ministers and not ours; for another mans sinful mode will not Justifie the neglect of our Duty. And if every significant custom in a Church must pass for a new Sacrament, then sitting at the Communion is a new Sacrament, because we are told it betokens Rest and Communion with Christ; and putting off the Hat in Prayer is a professing sign of Reverence; it cannot be thought a <hi>Medium</hi> in Gods Worship, because our worship is not directed to it, nor do we Kneel before it, nor declare that we are excited by it to worship God. The sign of the Cross is not an Essential of Baptism, as is ma<g ref="char:EOLhyphen"/>nifest
+<pb n="44" facs="tcp:64391:24"/>by the Canon; which tells us, that the Infant Baptized is by vertue of Baptism, before it be signed with the sign of the Cross, received into the Congregation of Christs Flock, as a perfect Member thereof; and not by any Power ascri<g ref="char:EOLhyphen"/>bed unto the sign of the Cross. And it after addeth, that this Church accounteth this sign a lawful outward Ceremony, and honourable Badge, whereby the Infant is dedicated to the service of him that dyed upon the Cross: now dedicating a Person being an engaging or setting him a part for God, and it being evident from the Canon that this dedicating is wholly distinct from the Baptismal dedication, to be a Member of Christs Church; we must hereby understand the Church to engage this member upon her account to the service of Christ; as when a Father shall warn his Children, to Devote them<g ref="char:EOLhyphen"/>selves to the service of God, as he himself hath done. And this sense is yet more evident from the Office of Baptism, where the Minister baptizing (acting in the Name of God) saith in the Singular Number, <hi>I Baptize, &amp;c.</hi> But saith in the Plural number, <hi>We receive this Child, and do sign him, &amp;c.</hi> acting herein in the Name of the Rulers and other Mem<g ref="char:EOLhyphen"/>bers of the Catholick Church, in Communion with us; the whole body defiring and seeking the good of every member: Moreover it is used after Baptism, and in case of sudden sick<g ref="char:EOLhyphen"/>ness it may be omitted, as you may see in the Liturgy; which plainly proves it is not thought essentially necessary to the Ordinance: When any charge is given to any Person, the common Wisdom of Mankind hath alwayes thought it very expedient, to add to the Solemnity thereof by some fignificant Rite. And this is all that's intended by the sign of the Cross. See Bishop <hi>Morton</hi> on this Subject.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>But it's good to keep as far off as we can from any thing that hath been abused by Papists.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>But it is not good to run from <hi>Rome</hi> into <hi>Babel:</hi> he that will condemn a piously order'd sign of Admonition and Memorial, because a superstitious, operative use of the same is not allowable, must condemn things greatly different as if they were the same; as if because <hi>Gideons</hi> Ephod was abused when it was made an Idol, therefore the use of an Ephod by <hi>Samuel</hi> in the service of God must be thought insufferable; and be<g ref="char:EOLhyphen"/>cause
+<pb n="45" facs="tcp:64391:24"/>the Image of <hi>Caesar</hi> set up to be worshipt is abominable, therefore his Image stampt upon his Coyn must not be to<g ref="char:EOLhyphen"/>lerated: Those mens Bodies which were once abused to the service of sin, may yet find acceptance with God in serving him. The Directory tells us, that Things and Places formerly abused to Superstition, are not presently to be laid aside as un<g ref="char:EOLhyphen"/>lawful; and the Protestants beyond the Seas, in their Confessi<g ref="char:EOLhyphen"/>ons declare, that the true way of Reformation in the Church, is not to root out every thing that was found in the Church of <hi>Rome,</hi> but to reject what was fit to be rejected, and to preserve what was fit to be preserved: And the Church of <hi>England</hi> professeth the same, in the Preface to the Book of Common-Prayer: It's true, <hi>Hezekiah</hi> brake down the Bra<g ref="char:EOLhyphen"/>zen Serpent when abused to Idolatry, but we must consider that the <hi>Jews</hi> had positive Laws to demolish all Idolatrous places, which we Christians have not; and moreover, it was done by lawful Authority, whose regular Reformations we must wait for in the way of our Duty: And be sure to remem<g ref="char:EOLhyphen"/>ber, that we are not discoursing what is convenient in case of Liberty, but what is lawful in case of Necessity.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I have so great a prejudice against the Surplice, that I cannot attend the Prayers of one that wears it, it seems to me to be so very indecent.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>I will not go about to dispute for a white Surplice, but I'll keep to my usual Method of Discourse, and only desire to know of you, whether you think you can justifie the lawful<g ref="char:EOLhyphen"/>ness of neglecting the publick Worship of God, because the Minister that officiates doth not wear his Garment of such a Colour as pleaseth your fancy; especially when we consider, that the greatest part of Mankind, both <hi>Jews</hi> and <hi>Christians,</hi> have accounted white Garments both honourable and come<g ref="char:EOLhyphen"/>ly; and they are also approved as such by the Wisdom of God himself, in the Description of the most excellent Persons and Things. I pray tell me, how came you to have a better judgment concerning what is decent in the Church, than the rest of the World have, or than he who gave the Being both to the World, and to the Church? Again, If we consider the great Antiquity of this white Garment in the Church, before ever Popery was known: For, fince the degeneracy
+<pb n="46" facs="tcp:64391:25"/>of the <hi>Roman</hi> Church, the Surplice is none of their proper Massing Garments, being never worn by the Priest who con<g ref="char:EOLhyphen"/>secrateth at the Mass; but there are six other Garments which are used by their Priests, and accounted their holy Ga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments, all of them having their particular Consecrations, as the Sur<g ref="char:EOLhyphen"/>plice hath not; this Garment having been less abused by them than their Churches, and their Communion Cloaths, which, by reason of their manifest Conveniency and Decen<g ref="char:EOLhyphen"/>cy, are by us still thought lawful to be used.</p>
+               <p>The use of black Garments may be argued against from the Topick of Abuse, with as much plausibleness as can be argued against white: For the ancient <hi>Pagan</hi> Priests wore a black Garment, and were from thence called <hi>Che<g ref="char:EOLhyphen"/>marim<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> as you may see in <hi>Zeph.</hi> 1.4. which <hi>Junius</hi> ren<g ref="char:EOLhyphen"/>ders <hi>Atratus,</hi> (as <hi>Buxtorf</hi> observes.) At this rate men may dispute themselves out of God's Creation, since Hea<g ref="char:EOLhyphen"/>ven and Earth, and all sorts of Creatures have been Ido<g ref="char:EOLhyphen"/>latrously abused. <hi>Calvin</hi> himself dislikes the Heat of Con<g ref="char:EOLhyphen"/>tention against the use of it; and many Protestant Chur<g ref="char:EOLhyphen"/>ches use it in <hi>Germany, Denmark, Norway, &amp;c.</hi> And I could prove, that it was not properly an <hi>Aaronical</hi> Garment, and therefore not liable to the charge of <hi>Judaism;</hi> for the High-priest's Ephod was made of Blue, and Purple, and Scarlet; and his Robe was all of Blue, which can have no assinity with the Surplice; and if there were any part of their Garments white, it differed very much in the shape or fashion from ours: But if it did not, I am sure good men will rejoyce to hear the Gospel preached, although it were in a Fool's Coat.</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I am not so much against a Form of Prayer in General, as I am against the Particular Form prescri<g ref="char:EOLhyphen"/>bed; it having so many needless Tautologies, and is yet so defective in many Cases, and such a cold, dull, lifeless way of Expression, that I cannot joyn with it.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>If it be such a cold, empty Form, I pray come and fill it with your warm Devotions; for the fault (I am apt to think) is in the Supplicants, who do not joyn Faith and Fervency. It's frequently observed, that the same persons that condemn the use of the Common-prayer,
+<pb n="47" facs="tcp:64391:25"/>condemn also the use of the Lord's Prayer it self, which is a considerable part of the Liturgy. Suppose those excessent men who penned the Prayers of the Church should have lived in our times, and have used those very words <hi>memo<g ref="char:EOLhyphen"/>riter,</hi> would we have refused to joyn with them in Pray<g ref="char:EOLhyphen"/>er? and if they would have been good from their mouths, why not from the mouths of other men? I should be as<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>med to repeat the rude Expressions, and impertinent Ta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tologies of some of your own in their <hi>ex-tempore</hi> Prayers; will you therefore refuse to hold Communion with them? The ordinary Lord's Day's Service in the Liturgy, is an excellent Form of sound Words, suited to common Ca<g ref="char:EOLhyphen"/>pacities, and common Necessities, and from thence takes it's Denomination. The Compilers of it were excellent Men, and some of them Martyrs for the Protestant Re<g ref="char:EOLhyphen"/>formed Religion: And (as Mr. <hi>Ball</hi> observes) it was not taken out of the Mass-Book; but composed from the pu<g ref="char:EOLhyphen"/>rest Liturgies in the primitive times, before ever the Mass-Book was heard of in the World: The Mass-Book may more properly be said to have borrowed some part of it, as that Learned Author well observes. Good Sir, confi<g ref="char:EOLhyphen"/>sider, what makes up the Liturgy? is it not the Lord's Pray<g ref="char:EOLhyphen"/>er, the Creed, the Commandments, the Psalms of <hi>David,</hi> the Song of <hi>Zecharias,</hi> the Virgin <hi>Mary</hi> and old <hi>Simeon;</hi> What better Doxologies of Praise for our Redemption by Jesus Christ, according to the ancient use of the Christian Church? What hurt is there in the excellent Hymn of St. <hi>Ambrose,</hi> and in the Prayer of St. <hi>Chrysostome?</hi> Are there not also two Chapters read in the holy Bible, one out of the Old Testament, another out of the New, besides Epi<g ref="char:EOLhyphen"/>stles and Gospels proper for the day, together with Com<g ref="char:EOLhyphen"/>prehensive Collects, and Prayers for the whole State of Christ's Church Militant, and particularly for our Gover<g ref="char:EOLhyphen"/>nours, that we may live peaceably and quietly, in all God<g ref="char:EOLhyphen"/>liness and Honesty?</p>
+            </sp>
+            <sp>
+               <speaker>Separat.</speaker>
+               <p>I am apt to think you are under a great mistake, in thinking Uniformity the way to Unity. I confess, Men<g ref="char:EOLhyphen"/>tal Communion amongst all the Members of Christ, is to be recommended, <hi>viz.</hi> in Faith and Love; but Local Com<g ref="char:EOLhyphen"/>munion
+<pb n="48" facs="tcp:64391:26"/>will no way help to cure Divisions.</p>
+            </sp>
+            <sp>
+               <speaker>Conform.</speaker>
+               <p>It is the general Opinion of the wisest Men, and the best Christians, that nothing can more conduce to<g ref="char:EOLhyphen"/>wards Union, than Parochial Communion; for when men are perfectly joyned together in the same mind, and in the same Judgment, all speaking the same thing, and with one mouth glorifying God, and joyning their <hi>Amen</hi> in the publick Congregation; this is the best expedient to increase brotherly Love, and to put an end to our unchristian Heats and Animosities, and to create a right Understanding amongst Men. Let some Politick Persons pretend what they please, difference in Judgment will produce difference in Affecti<g ref="char:EOLhyphen"/>on; and therefore if we would leave off quarrelling one with another, let us in the House of God frequently pray one with another, and particularly this excellent Prayer of our Church: <hi>That God would look down in much Pity and Com<g ref="char:EOLhyphen"/>passion upon this distressed Church and Nation, whose bleeding Wounds, occasioned by the lamentable Divisions that are amongst us, cry aloud for his speedy Help, and saving Relief; and that be would stir up every Soul of us carefully to become sincere Chri<g ref="char:EOLhyphen"/>stians, and root out of our Hearts Pride, Vain-glory, Wrath, Bit<g ref="char:EOLhyphen"/>terness, all unjust Prejudice, and causeless Jealousies, all Hatred and Malice, and desire of Revenge, and whatsoever it is that may exasperate our Minds, or hinder us from discerning the things of our Peace; that so by the Power of the holy Spirit of Peace, he would dispose all our Hearts to such Meekness of Wis<g ref="char:EOLhyphen"/>dom, and Lowliness of Mind, such calm and deliberate long-suf<g ref="char:EOLhyphen"/>fering and forbearing one another in Love, with such due esteem of those whom he hath set over us, as may turn the Hearts of the Fathers to the Children, and the Hearts of the Children to the Fathers; that so we may become a ready People, prepared to live in Ʋnity and Peace.</hi> Amen.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
